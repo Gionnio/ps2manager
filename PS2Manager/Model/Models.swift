@@ -72,6 +72,11 @@ struct Game: Identifiable, Hashable {
 		DriveLayout.stripPopsPrefix((filename as NSString).deletingPathExtension)
 	}
 
+	/// Disco di un gioco multidisco (solo PS1).
+	var discInfo: DiscInfo? {
+		platform == .ps1 ? DriveLayout.discInfo((filename as NSString).deletingPathExtension) : nil
+	}
+
 	var sizeText: String {
 		ByteCountFormatter.string(fromByteCount: size, countStyle: .file)
 	}
@@ -107,14 +112,37 @@ struct DriveLayout {
 		name.hasPrefix("XX.") || name.hasPrefix("SB.") ? String(name.dropFirst(3)) : name
 	}
 
-	/// "Nome (Disc 2)" → ("Nome", 2)
-	static func discInfo(_ name: String) -> (base: String, disc: Int)? {
+	/// Riconosce i dischi di un gioco multidisco: "Nome (Disc 2)", "Nome Disc2", "Nome - Disk 2", "Nome CD2 extra", "Nome (Disc 2 of 3)"…
+	static func discInfo(_ name: String) -> DiscInfo? {
 		guard let match = discPattern.firstMatch(in: name, range: NSRange(name.startIndex..., in: name)),
-		      let base = Range(match.range(at: 1), in: name), let disc = Range(match.range(at: 2), in: name) else { return nil }
-		return (name[base].trimmingCharacters(in: .whitespaces), Int(name[disc]) ?? 0)
+		      let baseRange = Range(match.range(at: 1), in: name), let discRange = Range(match.range(at: 2), in: name),
+		      let disc = Int(name[discRange]) else { return nil }
+		let base = name[baseRange].trimmingCharacters(in: CharacterSet(charactersIn: " _-.([").union(.whitespaces))
+		guard !base.isEmpty else { return nil }
+		return DiscInfo(base: base, disc: disc, isStandard: name == DiscInfo.standardName(base: base, disc: disc))
 	}
 
-	private static let discPattern = try! NSRegularExpression(pattern: "^(.*)\\s+\\(Disc\\s+(\\d+)\\)$", options: .caseInsensitive)
+	// Prende l'ultimo indicatore del disco (greedy) e accetta testo dopo, es. "CD1 avercab0001".
+	private static let discPattern = try! NSRegularExpression(
+		pattern: "^(.*)(?<![A-Za-z0-9])(?:disc|disk|cd)[\\s_-]*(\\d{1,2})(?!\\d)(?:\\s*(?:of|di|/)\\s*\\d{1,2})?\\s*[\\)\\]]?.*$",
+		options: .caseInsensitive)
+}
+
+struct DiscInfo {
+	/// Nome del gioco senza l'indicatore del disco.
+	let base: String
+	let disc: Int
+	/// Il nome è già nella forma "Nome (Disc N)".
+	let isStandard: Bool
+
+	/// I dischi dello stesso gioco hanno la stessa chiave (maiuscole, "_" e spazi multipli non contano).
+	var key: String {
+		base.lowercased().replacingOccurrences(of: "_", with: " ").split(separator: " ").joined(separator: " ")
+	}
+
+	static func standardName(base: String, disc: Int) -> String {
+		"\(base) (Disc \(disc))"
+	}
 }
 
 enum StatusKind {

@@ -35,6 +35,8 @@ struct GameRow: View {
 				RowButton("Configure", symbol: "gearshape", action: onConfigure)
 				if game.platform == .ps2 {
 					RowButton("Rename to OPL Format", symbol: "pencil") { library.rename(game) }
+				} else if let disc = game.discInfo, !disc.isStandard {
+					RowButton("Rename to “Name (Disc N)”", symbol: "pencil") { library.standardizeDiscNames(game) }
 				}
 				RowButton(game.platform == .ps2 ? "Export ISO" : "Export as BIN/CUE", symbol: "square.and.arrow.up") { library.export(game) }
 				if game.platform == .ps2 {

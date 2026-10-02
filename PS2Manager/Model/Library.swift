@@ -110,6 +110,7 @@ final class Library: ObservableObject {
 
 	func refresh() {
 		guard let layout else { return }
+
 		isScanning = true
 		let readSerials = defaults.bool(forKey: SettingsKey.readSerialsFromImages)
 		Task {
@@ -146,11 +147,11 @@ final class Library: ObservableObject {
 		let vcds = files(layout.pops, ext: "vcd")
 		var discCount: [String: Int] = [:]
 		for url in vcds {
-			if let info = DriveLayout.discInfo(url.deletingPathExtension().lastPathComponent) { discCount[info.base, default: 0] += 1 }
+			if let info = DriveLayout.discInfo(url.deletingPathExtension().lastPathComponent) { discCount[info.key, default: 0] += 1 }
 		}
 		let ps1 = vcds.map { url -> Game in
 			let name = url.deletingPathExtension().lastPathComponent
-			let missing = DriveLayout.discInfo(name).map { (discCount[$0.base] ?? 0) < 2 } ?? false
+			let missing = DriveLayout.discInfo(name).map { (discCount[$0.key] ?? 0) < 2 } ?? false
 			return Game(platform: .ps1, filename: url.lastPathComponent, serial: serial(url),
 			            title: name.replacingOccurrences(of: "_", with: " "), size: size(url), missingDisc: missing)
 		}
@@ -209,11 +210,11 @@ final class Library: ObservableObject {
 
 	private func handlePS1Drop(_ sources: [URL], layout: DriveLayout) {
 		guard !sources.isEmpty, ensurePOPStarter() else { return }
-		var groups: [String: [URL]] = [:]
+		var groups: [String: [(url: URL, info: DiscInfo)]] = [:]
 		var singles: [URL] = []
 		for url in sources {
 			if let info = DriveLayout.discInfo(url.deletingPathExtension().lastPathComponent) {
-				groups[info.base, default: []].append(url)
+				groups[info.key, default: []].append((url, info))
 			} else {
 				singles.append(url)
 			}
@@ -230,16 +231,17 @@ final class Library: ObservableObject {
 			}
 		}
 
-		for (base, discs) in groups.sorted(by: { $0.key < $1.key }) {
+		for (key, discs) in groups.sorted(by: { $0.key < $1.key }) {
+			let base = discs[0].info.base
 			if discs.count == 1,
 			   !confirm(String(localized: "Incomplete multi-disc game"), String(localized: "You only dropped one disc of:\n\(base)\nContinue anyway?")) {
 				continue
 			}
-			let sorted = discs.sorted { $0.lastPathComponent.localizedStandardCompare($1.lastPathComponent) == .orderedAscending }
+			let sorted = discs.sorted { $0.info.disc < $1.info.disc }.map(\.url)
 			for (index, disc) in sorted.enumerated() {
 				enqueue(String(localized: "Multi-disc \(base): disc \(index + 1) of \(sorted.count)")) { [unowned self] in
 					try await installPS1(disc, layout: layout)
-					if index == sorted.count - 1 { try writeMultiDiscConfig(base: base, layout: layout) }
+					if index == sorted.count - 1 { try writeMultiDiscConfig(key: key, base: base, layout: layout) }
 				}
 			}
 		}
@@ -303,11 +305,8 @@ final class Library: ObservableObject {
 	}
 
 	/// DISCS.TXT e VMCDIR.TXT fanno sì che POPStarter tratti i dischi come un solo gioco con una memory card condivisa.
-	private func writeMultiDiscConfig(base: String, layout: DriveLayout) throws {
-		let prefix = (base + " (disc").lowercased()
-		let discs = ((try? FileManager.default.contentsOfDirectory(atPath: layout.pops.path)) ?? [])
-			.filter { !$0.hasPrefix("._") && $0.lowercased().hasPrefix(prefix) && $0.lowercased().hasSuffix(".vcd") }
-			.sorted()
+	private func writeMultiDiscConfig(key: String, base: String, layout: DriveLayout) throws {
+		let discs = discFiles(key: key, layout: layout).map(\.file)
 		guard let first = discs.first else { return }
 		let list = discs.joined(separator: "\n")
 		let vmc = (first as NSString).deletingPathExtension
@@ -318,6 +317,86 @@ final class Library: ObservableObject {
 			try vmc.write(to: folder.appendingPathComponent("VMCDIR.TXT"), atomically: true, encoding: .utf8)
 		}
 		setStatus(String(localized: "Multi-disc set up: \(base) (\(discs.count) discs)"), .success)
+	}
+
+	/// I VCD sull'unità che appartengono allo stesso gioco multidisco, ordinati per numero di disco.
+	private func discFiles(key: String, layout: DriveLayout) -> [(file: String, info: DiscInfo)] {
+		((try? FileManager.default.contentsOfDirectory(atPath: layout.pops.path)) ?? [])
+			.filter { !$0.hasPrefix("._") && $0.lowercased().hasSuffix(".vcd") }
+			.compactMap { file in DriveLayout.discInfo((file as NSString).deletingPathExtension).map { (file, $0) } }
+			.filter { $0.info.key == key }
+			.sorted { $0.info.disc < $1.info.disc }
+	}
+
+	/// Rinomina tutti i dischi di un gioco nel formato "Nome (Disc N)", spostando anche le cartelle POPS/ e APPS/
+	/// e aggiornando lanciatori, DISCS.TXT e VMCDIR.TXT.
+	func standardizeDiscNames(_ game: Game) {
+		guard let layout, let info = game.discInfo else { return }
+		let discs = discFiles(key: info.key, layout: layout)
+		guard let newBase = askForGameName(base: info.base, discs: discs.map(\.file)) else { return }
+
+		let fm = FileManager.default
+		var renamed: [(old: String, new: String)] = []
+		for disc in discs {
+			let oldName = (disc.file as NSString).deletingPathExtension
+			let newName = DiscInfo.standardName(base: newBase, disc: disc.info.disc)
+			guard oldName != newName else { continue }
+			if fm.fileExists(atPath: layout.pops.appendingPathComponent(newName + ".VCD").path) {
+				alert(String(localized: "\(newName).VCD already exists on the drive."))
+				return
+			}
+			renamed.append((oldName, newName))
+		}
+
+		do {
+			for (oldName, newName) in renamed {
+				let ext = (discs.first { ($0.file as NSString).deletingPathExtension == oldName }?.file as NSString?)?.pathExtension ?? "VCD"
+				try fm.moveItem(at: layout.pops.appendingPathComponent("\(oldName).\(ext)"), to: layout.pops.appendingPathComponent("\(newName).VCD"))
+				let oldFolder = layout.pops.appendingPathComponent(oldName)
+				if fm.fileExists(atPath: oldFolder.path) {
+					try fm.moveItem(at: oldFolder, to: layout.pops.appendingPathComponent(newName))
+				}
+				try renameLauncher(from: oldName, to: newName, layout: layout)
+			}
+			try writeMultiDiscConfig(key: DiscInfo(base: newBase, disc: 1, isStandard: true).key, base: newBase, layout: layout)
+		} catch {
+			setStatus(String(localized: "Error: \(error.localizedDescription)"), .error)
+		}
+		refresh()
+	}
+
+	/// Sposta APPS/<vecchio> in APPS/<nuovo>, rinominando l'ELF (mantiene il prefisso XX./SB.) e riscrivendo title.cfg.
+	private func renameLauncher(from oldName: String, to newName: String, layout: DriveLayout) throws {
+		let fm = FileManager.default
+		let oldFolder = layout.apps.appendingPathComponent(oldName)
+		guard fm.fileExists(atPath: oldFolder.path) else { return }
+		let newFolder = layout.apps.appendingPathComponent(newName)
+		try fm.moveItem(at: oldFolder, to: newFolder)
+		let files = (try? fm.contentsOfDirectory(atPath: newFolder.path)) ?? []
+		guard let elf = files.first(where: { $0.uppercased().hasSuffix(".ELF") }) else { return }
+		let prefix = elf.hasPrefix("SB.") ? "SB." : (elf.hasPrefix("XX.") ? "XX." : loaderMode.popsPrefix)
+		let newElf = "\(prefix)\(newName).ELF"
+		if elf != newElf {
+			try fm.moveItem(at: newFolder.appendingPathComponent(elf), to: newFolder.appendingPathComponent(newElf))
+		}
+		try "title=\(newName)\nboot=\(newElf)".write(to: newFolder.appendingPathComponent("title.cfg"), atomically: true, encoding: .utf8)
+	}
+
+	private func askForGameName(base: String, discs: [String]) -> String? {
+		let alert = NSAlert()
+		alert.messageText = String(localized: "Rename to standard format")
+		alert.informativeText = String(localized: "The discs will be renamed to “Name (Disc N)”, together with their POPS and APPS folders:\n\(discs.joined(separator: "\n"))")
+		let field = NSTextField(string: base)
+		field.frame = NSRect(x: 0, y: 0, width: 320, height: 24)
+		alert.accessoryView = field
+		alert.window.initialFirstResponder = field
+		alert.addButton(withTitle: String(localized: "Rename"))
+		alert.addButton(withTitle: String(localized: "Cancel"))
+		guard alert.runModal() == .alertFirstButtonReturn else { return nil }
+		var name = field.stringValue
+		for bad in [":", "/", "\\", "?", "*", "\"", "<", ">", "|"] { name = name.replacingOccurrences(of: bad, with: "") }
+		name = name.trimmingCharacters(in: .whitespaces)
+		return name.isEmpty ? nil : name
 	}
 
 	private func autoDownloadCover(for file: URL, platform: Platform, layout: DriveLayout) async {

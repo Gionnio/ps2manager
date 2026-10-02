@@ -174,3 +174,7 @@
 "Replace…" = "Sostituisci…";
 "The selected file is not a valid ELF executable." = "Il file scelto non è un eseguibile ELF valido.";
 "Third-party files" = "File di terze parti";
+"%@.VCD already exists on the drive." = "%@.VCD esiste già sull'unità.";
+"Rename to standard format" = "Rinomina nel formato standard";
+"Rename to “Name (Disc N)”" = "Rinomina in “Nome (Disc N)”";
+"The discs will be renamed to “Name (Disc N)”, together with their POPS and APPS folders:\n%@" = "I dischi verranno rinominati in “Nome (Disc N)”, insieme alle loro cartelle POPS e APPS:\n%@";

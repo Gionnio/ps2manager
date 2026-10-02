@@ -16,7 +16,7 @@
 
 - **Drag & drop install**: drop the `.iso` backups of your PS2 discs to copy them into `DVD/`, and the `.cue`/`.bin` backups of your PS1 discs to convert them to `.VCD` (folders and the Dock icon work too).
 - **PS1 via POPStarter**: creates the `APPS/<game>` launcher (`XX.` prefix for USB, `SB.` for SMB) using your own imported `POPSTARTER.ELF`, and copies `TROJAN_x.BIN`/`PATCH_x.BIN` patches found next to the image.
-- **Multi-disc games**: groups `(Disc N)` images and writes `DISCS.TXT`/`VMCDIR.TXT`; warns about missing discs.
+- **Multi-disc games**: recognizes `(Disc N)`, `Disc2`, `Disk 2`, `CD2`, `(Disc 1 of 2)`… even with extra text, groups the discs and writes `DISCS.TXT`/`VMCDIR.TXT`; warns about missing discs and can rename every disc to the standard `Name (Disc N)` format, moving its folders and save data too.
 - **Game titles** from the built-in game ID database, read straight from the disc image.
 - **Covers** from the xlenore repositories, one by one or for the whole library, saved as `ART/<ID>_COV.png`.
 - **Per-game OPL configuration**: compatibility modes 1–6, VMC, cheats (`CHT/<ID>.cht`) by drag & drop.

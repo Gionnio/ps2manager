@@ -66,6 +66,8 @@ struct ContentView: View {
 		Button("Configure…", systemImage: "gearshape") { configuring = game }
 		if game.platform == .ps2 {
 			Button("Rename to OPL Format", systemImage: "pencil") { library.rename(game) }
+		} else if let disc = game.discInfo, !disc.isStandard {
+			Button("Rename to “Name (Disc N)”", systemImage: "pencil") { library.standardizeDiscNames(game) }
 		}
 		Button(game.platform == .ps2 ? "Export ISO…" : "Export as BIN/CUE…", systemImage: "square.and.arrow.up") { library.export(game) }
 		if game.platform == .ps2 {
