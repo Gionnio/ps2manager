@@ -1,0 +1,9 @@
+.DS_Store
+build/
+dist/
+DerivedData/
+xcuserdata/
+*.profraw
+*.xcuserstate
+Data/POPSTARTER.ELF
+Data/patches/

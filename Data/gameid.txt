@@ -1,0 +1,2201 @@
+SLES_553.45	007 Quantum of Solace
+SLUS_218.13	007 Quantum of Solice: The Game
+SLES_533.57	21 Card Games
+SLUS_212.68	24: The Game
+SCES_533.58	24: The Game
+SLES_501.09	7 Blades
+SLPM_650.57	7 Blades
+SLPM_650.08	7 Blades
+SLPS_250.25	7: Molmorth no Kiheitai
+SCES_504.10	Ace Combat: Distant Thunder / Ace Combat 4: Shattered Skies
+SCES_524.24	Ace Combat: Squadron Leader / Ace Combat 5: The Unsung War
+SLUS_201.52	Ace Combat 4: Shattered Skies
+SLPS_250.52	Ace Combat 4: Shattered Skies
+SLUS_208.51	Ace Combat 5: The Unsung War
+SCKA_200.42	Ace Combat 5: The Unsung War
+SLPS_254.18	Ace Combat 5: The Unsung War
+SLUS_213.46	Ace Combat Zero: The Belkan War
+SCES_540.41	Ace Combat Zero: The Belkan War
+SLPS_256.29	Ace Combat Zero: The Belkan War
+SCKA_200.70	Ace Combat Zero: The Belkan War
+SLPM_650.61	Adventure of Tokyo Disney
+SLUS_212.05	Aeon Flux
+SLES_539.56	Aeon Flux
+SLES_529.74	Agent Collection [Disc 1]
+SLUS_203.27	Agressive Inline
+SLES_504.80	Agressive Inline
+SLES_509.53	Air Ranger: Rescue Helicopter
+SLPM_657.32	Akai Ito
+SLES_509.19	Akira Psycho Ball
+SLPM_661.75	Akumajo Dracula: Yami no Juin
+SLES_525.42	All Music Dance!
+SLUS_205.69	All-Star Baseball 2004
+SLES_516.02	All-Star Baseball 2004
+SCES_508.87	Alpine Racer 3
+SLPS_201.81	Alpine Racer 3
+SLES_523.66	America's 10 Most Wanted
+SLES_523.67	America's 10 Most Wanted
+SLUS_210.69	American Chopper
+SLES_531.08	American Chopper
+SLUS_212.88	American Chopper 2: Full Throttle
+SLES_537.79	American Chopper 2: Full Throttle
+SCUS_972.58	Amplitude
+SCES_517.06	Amplitude
+SLES_540.16	and 1 Streetball
+SLUS_210.96	Ape Escape: Pumped & Primed
+SCCS_400.16	Ape Escape: Pumped & Primed (missing text)
+SCCS_400.17	Ape Escape: Pumped & Primed (missing text)
+SCAJ_300.05	Ape Escape: Pumped & Primed / 神奇機器競技場: 嗶波猴終極熱戰 (中文版)
+SCCS_400.01	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SLUS_206.85	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCES_508.85	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCES_511.02	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCES_511.03	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCES_511.04	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCES_511.05	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCPS_150.25	Ape Escape 2 / Saru! Get You! 2 / サルゲッチュ2
+SCUS_975.01	Ape Escape 3 / Saru! Get You! 3 / サルゲッチュ3
+SCES_536.42	Ape Escape 3 / Saru! Get You! 3 / サルゲッチュ3
+SCPS_150.96	Ape Escape 3 / Saru! Get You! 3 / サルゲッチュ3
+SLPS_256.04	Ar tonelico: Melody of Elemia
+SLES_545.86	Ar tonelico: Melody of Elemia
+SLUS_217.88	Ar Tonelico II: Melody of Metafalica
+SLES_554.44	Ar tonelico II: Melody of Metafalica
+SLPS_732.63	Ar tonelico II: Sekai ni Hibiku Shoujo Tachi no Metafalica [PlayStation 2 the Best]
+SLPS_258.19	Ar Tonelico II: Sekai ni Hibiku Shoujo Tachi no Souzoushi
+SLPS_732.49	Ar-Tonelico: Sekai no Owari de Shi Tsudzukeru Shoujo [PlayStation 2 The Best]
+SLPM_665.37	Atelier Iris: Eternal Mana 2 [Gust Best Price]
+GUST_000.04	Atelier Iris: Eternal Mana 2 [Premium Box]
+SLPM_668.49	Atelier Iris 3: Grand Phantasm [Gust Best Price]
+SLPM_660.81	Atelier no Iris: Eternal Mana [Gust Best Price]
+GUST_000.03	Atelier no Iris: Eternal Mana [Premium Box]
+SLUS_214.45	Ar Tonelico
+SLUS_211.65	Arc the Lad: End of Darkness
+SCPS_150.58	Arc the Lad: Generation
+SCCS_400.07	Arc the Lad: Seirei no Tasogare
+SCUS_972.31	Arc the Lad: Twilight of the Spirits
+SCES_519.10	Arc the Lad: Twilight of the Spirits
+SCPS_150.41	Arc the Lad: Twilight of the Spirits
+SLUS_217.20	Arcana Heart
+SLPM_668.50	Arcana Heart
+SCKA_200.06	Argus no Senshi
+SLPS_251.78	Argus no Senshi
+SLES_538.20	Armored Core: Last Raven
+SLUS_206.44	Armored Core: Silent Line
+SCCS_400.11	Armored Core 2: Another Age
+SLPM_664.57	Asobi ni Iku Yo! Chikyuu Pinchi no Konyaku Sengen / あそびにいくヨ! ～ちきゅうぴんちのこんやくせんげん～
+SLES_537.64	Atelier Iris: Eternal Mana
+SLUS_211.13	Atelier Iris: Eternal Mana
+SLPM_664.36	Atelier Iris: Grand Fantasm
+SLPM_659.85	Atelier Iris 2: Eternal Mana
+SLUS_213.27	Atelier Iris 2: The Azoth of Destiny
+SLES_543.85	Atelier Iris 2: The Azoth of Destiny
+SLUS_215.64	Atelier Iris 3: Grand Phantasm
+SLES_548.22	Atelier Iris 3: Grand Phantasm
+SLPM_651.31	Atelier Judie: Gramnad no Renkinjutsushi
+SLPS_250.45	Atelier Lilie
+SLPM_655.94	Atelier no Iris: Eternal Mana
+SLES_508.50	ATV Off-Road 2
+SCUS_974.05	ATV Off-Road Fury 3
+SCUS_974.79	ATV Off-Road Fury 4
+SCES_546.88	ATV Off-Road Fury 4
+SLUS_205.70	ATV Quad Power Racing 2
+SLUS_206.38	Backyard Wrestling: Don't Try This at Home
+SLUS_210.43	Backyard Wrestling 2: There Goes the Neighborhood
+SLPM_652.34	Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman
+SLUS_200.35	Baldur's Gate: Dark Alliance
+SLES_506.72	Baldur's Gate: Dark Alliance
+SLPS_251.39	Baldur's Gate: Dark Alliance
+SLPS_251.40	Baldur's Gate: Dark Alliance
+SLPS_252.91	Baldur's Gate: Dark Alliance [PCCW The Best]
+SLUS_206.75	Baldur's Gate: Dark Alliance II
+SLES_521.87	Baldur's Gate: Dark Alliance II
+SLES_521.88	Baldur's Gate: Dark Alliance II
+SLPM_658.45	Baldur's Gate: Dark Alliance II
+SLUS_218.98	Band Hero
+SLES_555.78	Band Hero
+SLKA_150.01	Barbarian
+SLES_509.72	Barbarian
+SLUS_201.36	Barbarian
+SLES_553.71	Barbie Horse Adventures: Riding Camp
+SLUS_206.64	Barbie Horse Adventures: Wild Horse Rescue
+SLES_518.45	Barbie Horse Adventures: Wild Horse Rescue
+SLPM_620.48	Battle Gear 2
+SLUS_210.26	Battlefield 2: Mordern Combat
+SLUS_202.91	Big Mutha Truckers
+SLUS_206.05	Big Mutha Truckers
+SLES_513.55	Big Mutha Truckers
+SLUS_210.86	Big Mutha Truckers 2
+SLES_529.80	Big Mutha Truckers 2
+SLUS_215.78	Biker Mice from Mars
+SLUS_213.76	Black
+SLES_538.86	Black
+SLES_540.30	Black
+SCPS_151.19	Bleach: Blade Battlers 2nd (Fix Bankai Mode: L1 + R1)
+SLUS_200.24	Blood Omen 2: The Legacy of Kain
+SLES_507.71	Blood Omen 2: The Legacy of Kain
+SLES_507.72	Blood Omen 2: The Legacy of Kain
+SLES_508.15	Blood Omen 2: The Legacy of Kain
+SCPS_150.07	Blood: The Last Vampire: Joukan
+SCPS_150.08	Blood: The Last Vampire: Gekan
+SLUS_204.61	BloodRayne
+NPUD_204.61	BloodRayne
+SLUS_208.62	BloodRayne 2
+NPUD_208.62	BloodRayne 2
+SLES_538.31	BloodRayne 2
+SLUS_202.12	Bloody Roar 3
+SLES_502.03	Bloody Roar 3
+SLPM_620.55	Bloody Roar 3
+SLUS_208.50	BlowOut
+SLUS_204.15	BMX XXX
+SLES_513.65	BMX XXX
+SLES_517.17	Boxing Champions
+SCPS_110.13	Bravo Music
+SCPS_510.04	Bravo Music
+PAPX_902.16	Bravo Music
+SCPS_110.19	Bravo Music: Chou-Meikyokuban [Limited Edition] [Disc 1of2]
+SCPS_110.20	Bravo Music: Chou-Meikyokuban [Limited Edition] [Disc 2of2]
+SCPS_110.23	Bravo Music: Chou-Meikyokuban
+PCPX_965.11	Bravo Music: Christmas Edition
+SCPS_110.17	Bravo Music: Christmas Edition
+SLUS_205.66	Buffy the Vampire Slayer: Chaos Bleeds
+SLES_518.90	Buffy the Vampire Slayer: Chaos Bleeds
+SLUS_212.69	Bully
+NPUD_212.69	Bully
+SLPS_258.79	Bully
+SLPS_259.50	Bully [Best of Bethesda]
+SLUS_203.07	Burnout
+SLES_504.45	Burnout
+SLUS_204.97	Burnout 2: Point of Impact
+SLES_510.44	Burnout 2: Point of Impact
+SLUS_210.50	Burnout 3: Takedown (ALT)
+SLUS_291.13	Burnout 3: Takedown [Demo]
+SLES_525.84	Burnout 3: Takedown
+SLES_525.85	Burnout 3: Takedown
+SLPM_657.19	Burnout 3: Takedown
+SLPM_659.58	Burnout 3: Takedown [EA Best Hits]
+SLPM_669.62	Burnout 3: Takedown [EA-SY! 1980]
+SLPM_602.46	Burnout 3: Takedown [Trial]
+SLKA_252.06	Burnout 3: Takedown
+SLAJ_250.53	Burnout 3: Takedown
+SLUS_212.42	Burnout Revenge
+SLES_535.06	Burnout Revenge
+SLES_535.07	Burnout Revenge
+SLPM_661.08	Burnout Revenge
+SLUS_215.96	Burnout Dominator
+SLES_546.27	Burnout Dominator
+SLES_546.81	Burnout Dominator
+SLPM_667.39	Burnout Dominator
+SLAJ_250.94	Burnout Dominator
+SLPM_620.98	Busin: Wizardry Alternative
+SLES_517.13	Bust-A-Bloc
+SLPM_620.29	Bust a Move: Dance Summit 2001
+SCUS_976.02	Buzz! Jr. Jungle Party [Game Only]
+SCES_542.19	Buzz! Junior Jungle Party
+SCES_542.20	Buzz! Junior Jungle Party
+SCES_545.24	Buzz! Junior Jungle Party
+SLUS_213.79	Cabela's African Safari
+SLUS_213.84	Cabela's Alaskan Adventures
+SLUS_213.50	Cabela's Dangerous Hunts 2
+SLUS_210.21	Cabela's Deer Hunt: 2005 Season
+SLUS_211.92	Cabela's Outdoor Adventures 2006
+SLES_535.61	Canis Canem Edit / Bully
+NPED_002.33	Canis Canem Edit / Bully
+SLES_534.85	Car Racing Challenge
+SLUS_201.41	CART Fury: Championship Racing
+SLES_502.67	CART Fury: Championship Racing
+SLUS_209.62	Castle Shikigami 2
+SLES_535.18	Castle Shikigami 2
+SLUS_211.68	Castlevania: Curse of Dakness
+SLES_537.55	Castlevania: Curse of Darkness
+SLKA_253.28	Castlevania: Curse of Darkness
+SLUS_209.73	Champions: Return to Arms
+SLES_530.39	Champions: Return to Arms
+SLUS_290.88	Champions of Norrath: Realms of EverQuest [Demo]
+SLUS_205.65	Champions of Norrath: Realms of EverQuest
+SLES_523.25	Champions of Norrath: Realms of EverQuest
+SLES_523.73	Champions of Norrath: Realms of EverQuest
+SLPM_654.04	Chou-jikuu Yousai Macross (The Super Dimension Fortress Macross)
+SLES_533.86	Charlie and the Chocolate Factory
+SLUS_206.33	Clock Tower 3
+SLUS_210.47	Cold Fear
+SLES_531.58	Cold Fear
+SLUS_205.02	Colin McRae Rally 3
+SLES_511.17	Colin McRae Rally 3
+SLES_518.24	Colin McRae Rally 04
+SLES_526.36	Colin McRae Rally 2005
+SLUS_207.15	Combat Elite: WWII Paratroopers
+SLUS_211.03	Commandos: Strike Force
+SLES_527.68	Commandos: Strike Force
+SLPM_664.92	Commandos: Strike Force / コマンドス ストライク・フォース
+SLUS_211.72	Conflict: Global Terror
+SLES_525.73	Conflict: Global Storm
+SLUS_211.42	Constantine
+SLES_528.72	Constantine
+SLUS_203.06	Contra Shattered Soldier
+NPJD_000.04	Contra Shattered Soldier
+SLPM_622.47	Contra Shattered Soldier / Shin Contra
+SLPM_621.14	Crash Bandicoot 4: Sakuretsu! Majin Power
+SLPM_658.01	Crash Bandicoot 5
+SLPM_660.90	Crash Bandicoot: Gacchanko World / クラッシュ・バンディクー　～がっちゃんこワールド～
+SLUS_202.38	Crash Bandicoot: The Wrath of Cortex
+SLES_503.86	Crash Bandicoot: The Wrath of Cortex
+SLUS_209.09	Crash Bandicoot: Twinsanity
+SLUS_211.91	Crash Tag Team Racing
+SLES_534.39	Crash Tag Team Racing
+SLES_525.68	Crash Twinsanity
+SLES_538.69	Crazy Frog Racer
+SLUS_216.34	Crazy Frog Racer 2
+SLES_545.49	Crazy Frog Racer 2
+SLUS_202.02	Crazy Taxi
+SLES_502.15	Crazy Taxi
+SLPM_621.02	Crazy Taxi / クレイジータクシー
+SLES_541.46	Crusty Demons
+SLES_536.33	Dance: UK XL Lite
+SLES_536.32	Dance: UK XL Party
+SLPM_624.27	Dance Dance Revolution: Party Collection
+SLUS_209.16	Dance Dance Revolution Extreme
+SLPM_653.58	Dance Dance Revolution Extreme
+SLUS_204.37	Dance Dance Revolution MAX
+SLUS_207.11	Dance Dance Revolution MAX 2
+SLUS_213.77	Dance Dance Revolution SuperNOVA
+SLES_521.07	Dance Europe
+SLUS_212.96	Dance Factory
+SLES_530.09	Dance Factory
+SLES_543.32	Dance Fest
+SLES_519.91	Dance UK
+SLES_524.90	Dance UK: Extra Trax
+SLES_526.15	Dance UK: Extra Trax
+SLES_526.40	Dance UK XL
+SLES_517.57	Dancing Stage Fever
+SLES_515.10	Dancing Stage Fever MegaMix
+SLES_525.98	Dancing Stage Fusion
+SCUS_971.11	Dark Cloud
+SCPS_150.04	Dark Cloud
+NPJC_000.02	Dark Cloud
+SLUS_210.42	Darkwatch
+SLES_535.64	Darkwatch
+SLUS_215.74	Dawn of Mana
+SLPM_665.76	Dawn of Mana
+SLPM_621.54	DDR Max: Dance Dance Revolution: 6th Mix
+SLPM_652.77	DDR Max 2: Dance Dance Revolution: 7th Mix
+SLUS_200.71	Dead or Alive 2: Hardcore
+NPUD_200.71	Dead Or Alive 2: Hardcore
+SCES_500.03	Dead or Alive 2: Hardcore
+NPJD_000.11	Dead Or Alive 2: Hardcore
+SLPS_250.26	Dead or Alive 2: Hardcore
+SLPS_250.02	Dead or Alive 2: Hardcore
+SLES_529.55	Deadly Strike
+NPED_000.27	Deadly Strike
+SLES_534.04	Deep Water
+SLUS_210.04	Def Jam: Fight for NY
+SLUS_291.08	Def Jam: Fight For NY [Demo]
+SLES_525.07	Def Jam: Fight for NY
+SLPM_664.63	Def Jam: Fight for NY [EA Best Hits]
+SLPM_550.78	Def Jam: Fight for NY [EA:SY! 1980]
+SLAJ_250.55	Def Jam: Fight for NY
+SLPM_659.07	Def Jam: Fight for NY
+SLUS_206.39	Def Jam: Vendetta
+SLUS_290.47	Def Jam: Vendetta [Demo]
+SLES_514.79	Def Jam: Vendetta
+SLPS_252.75	Def Jam: Vendetta
+SLKA_250.53	Def Jam: Vendetta
+SLPM_658.02	Def Jam: Vendetta [EA Best Hits]
+SLPM_550.01	Def Jam: Vendetta [EA:SY! 1980]
+SLKA_252.30	Def Jam: Fight for NY
+SLPM_659.13	Demento
+SLES_534.03	Demolition Girl
+SLPM_655.90	Densha de Go! Final / 電車でＧＯ！　ＦＩＮＡＬ
+TCPS_100.85	Densha de Go! Final / 電車でＧＯ！　ＦＩＮＡＬ [Limited Edition]
+TCPS_101.19	Densha de Go! Final / 電車でＧＯ！　ＦＩＮＡＬ [PlayStation 2 the Best]
+SLPM_742.14	Densha de Go! Final / 電車でＧＯ！　ＦＩＮＡＬ [PlayStation 2 the Best]
+SLPM_667.72	Densha de Go! Final / 電車でＧＯ！　ＦＩＮＡＬ [PlayStation 2 The Best]
+SLUS_209.45	Destroy All Humans!
+SLES_531.96	Destroy All Humans!
+SLUS_214.39	Destroy All Humans! 2
+SLES_543.84	Destroy All Humans! 2
+SLUS_208.55	Destruction Derby Arenas
+SLUS_202.16	Devil May Cry
+SLES_503.58	Devil May Cry
+SLPM_650.38	Devil May Cry
+SLPM_675.02	Devil May Cry
+SLPM_610.10	Devil May Cry: Trial Edition Ver. 2
+SCCS_400.02	Devil May Cry 2 [Disc 1of2]
+SCCS_400.03	Devil May Cry 2 [Disc 2of2]
+SLUS_213.61	Devil May Cry 3: Dante's Awakening [Special Edition]
+SLES_541.86	Devil May Cry 3: Dante's Awakening [Special Edition]
+SLES_530.38	Devil May Cry 3: Dante's Awakening
+SLKA_254.02	Devil May Cry 3: Dante's Awakening [Special Edition]
+SLPM_661.60	Devil May Cry 3 [Special Edition]
+SLUS_209.64	Devil May Cry 3
+SLKA_252.65	Devil May Cry 3
+SLPS_253.83	Digimon Battle Chronicle / デジモンバトルクロニクル
+SLUS_210.67	Digimon Rumble Arena 2
+SLES_526.31	Digimon Rumble Arena 2
+SLUS_214.19	Dirge of Cerberus: Final Fantasy VII
+SLES_541.85	Dirge of Cerberus: Final Fantasy VII
+SCAJ_201.69	Dirge of Cerberus: Final Fantasy VII
+SLPM_680.16	Dirge of Cerberus: Final Fantasy VII [Beta]
+SLPM_662.71	"Dirge of Cerberus: Final Fantasy VII
+ダージュオブケルベロス　～ファイナルファンタジーⅦ～"
+SLPM_666.29	Dirge of Cerberus: Final Fantasy VII International
+SLUS_205.61	Disaster Report
+SLUS_280.25	Disaster Report [Trade Demo]
+SCPS_560.12	Disaster Report
+SLUS_205.32	Disney Golf
+SLUS_206.07	Disney's Extreme Skate Adventure
+SLES_517.20	Disney's Extreme Skate Adventure
+SLES_517.21	Disney's Extreme Skate Adventure
+SLUS_214.53	Disney's Meet the Robinsons
+NPUD_214.53	Disney's Meet the Robinsons
+SLUS_204.78	Disney's PK: Out of the Shadows
+SLES_522.16	Disney's The Haunted Mansion
+SLES_522.14	Disney's The Haunted Mansion
+SCUS_971.46	Disney's Treasure Planet
+SCES_511.76	Disney's Treasure Planet
+SCES_511.77	Disney's Treasure Planet
+SLES_519.07	Disney/Pixar Alla Ricerca di Nemo
+SLUS_206.28	Disney/Pixar's Finding Nemo
+SLES_517.55	Disney/Pixar's Finding Nemo
+SLES_518.70	Disney/Pixar's Finding Nemo
+SLES_518.71	Disney/Pixar's Finding Nemo
+SLES_518.72	Disney/Pixar's Finding Nemo
+SLES_519.60	Disney/Pixar À Procura de Nemo
+SLES_507.73	Donald Duck: Phantomias Platyrhynchos Kineticus
+SLUS_212.58	dot Hack: G.U. Vol.1: Rebirth
+SLUS_291.99	dot hack: G.U. Vol.1: Rebirth
+SLPS_257.56	dot hack: G.U. Vol.1: Saitan [Bandai the Best]
+SLPS_732.59	dot hack: G.U. Vol.1: Saitan [PlayStation 2 the Best]
+SLPS_257.55	dot hack: G.U. Vol.1: Saitan [Welcome Price!!]
+SLUS_214.88	dot Hack: G.U. Vol.2: Reminisce
+SLPS_732.66	dot hack: G.U. Vol.2: Kimi Omou Koe [PlayStation 2 the Best]
+SLUS_214.89	dot Hack: G.U. Vol.3: Redemption
+SLPS_256.56	dot Hack: G.U. Vol.3: Aruku Youna Hayasa de
+SLPS_732.67	dot hack: G.U. Vol.3: Aruku Youna Hayasa de [PlayStation 2 the Best]
+SLUS_202.67	dot Hack: Part 1: Infection
+SLES_522.37	dot Hack: Part 1: Infection
+SLUS_205.62	dot Hack: Part 2: Mutation
+SLES_524.67	dot Hack: Part 2: Mutation
+SLUS_205.63	dot Hack: Part 3: Outbreak
+SLES_524.69	dot Hack: Part 3: Outbreak
+SLUS_205.64	dot Hack: Part 4: Quarantine
+SLES_524.68	dot Hack: Part 4: Quarantine
+SLPS_251.58	dot Hack: Vol.3: Erosion Pollution
+SLPS_252.02	dot Hack: Vol.4: Zettai Houi
+SLPS_255.27	dot Hack Frägment
+SLPS_256.51	dot Hack G.U. Vol.1: Saitan
+SLPS_256.55	dot Hack G.U. Vol.2: Kimi Omou Koe
+SLKA_250.80	dot Hack Vol. 1: Infection
+SLKA_251.38	dot Hack Vol. 2: Mutation
+SLKA_251.45	dot Hack Vol. 3: Outbreak
+SLPS_251.21	dot Hack Vol.1
+SLPS_251.43	dot Hack Vol.2: Mutation
+SLKA_251.74	dot Hack Vol.4: Quarantine
+SLES_512.13	Dragon Ball Z: Budokai
+SLUS_212.27	Dragon Ball Z: Budokai Tenkaichi
+SLES_532.00	Dragon Ball Z: Budokai Tenkaichi
+SLUS_214.41	Dragon Ball Z: Budokai Tenkaichi 2
+SLES_541.64	Dragon Ball Z: Budokai Tenkaichi 2
+SLUS_216.78	Dragon Ball Z: Budokai Tenkaichi 3
+SLES_549.45	Dragon Ball Z: Budokai Tenkaichi 3
+SLPS_255.60	Dragon Ball Z: Sparking!
+SLKA_253.07	Dragon Ball Z: Sparking!
+SLPS_258.15	Dragon Ball Z: Sparking! Meteor
+SLPS_256.90	Dragon Ball Z: Sparking! Neo
+NPJD_000.05	Dragon Force
+SLPM_657.97	Dragon Quest & Final Fantasy in Itadaki Street Special
+SLPM_550.23	Dragon Quest & Final Fantasy in Itadaki Street Special [Ultimate Hits]
+SCAJ_201.13	Dragon Quest & Final Fantasy in Itadaki Street
+SLPM_663.63	Dragon Quest: Shounen Yangus no Fushigi na Daibouken
+SLPM_655.55	Dragon Quest V
+SLUS_212.07	Dragon Quest VIII: Journey of the Cursed King
+SLUS_291.57	Dragon Quest VIII: Journey of the Cursed King [Demo]
+SLES_539.74	Dragon Quest VIII: Journey of the Cursed King
+SLPM_658.88	Dragon Quest VIII: Journey of the Cursed King
+SCAJ_201.10	Dragon Quest VIII: Sora to Daichi to Norowareshi Himegimi
+SLPM_664.81	Dragon Quest VIII [Ultimate Hits]
+SLPM_624.90	Dragon Quest VIII [Premium Disc]
+SCUS_971.28	Drakan: The Ancients' Gates
+SCUS_971.69	Drakan: The Ancients' Gates [Demo]
+SCES_500.06	Drakan: The Ancients' Gates
+SLUS_207.32	Drakengard
+SLES_539.86	DreamWorks La Gang del Bosco
+SLUS_210.15	DreamWorks Madagascar
+SLES_532.25	DreamWorks Madagascar
+SLUS_201.13	Driving Emotion Type S
+SLES_500.73	Driving Emotion Type-S
+SCES_504.59	Dropship: United Peace Force
+SLUS_204.63	Dropship: United Peace Force
+SLUS_217.93	DT Carnage
+SLUS_204.75	Dual Hearts
+SCPS_150.22	Dual Hearts
+SLES_528.84	Duel Masters
+SLUS_200.79	Dynasty Warriors 2
+SLES_500.57	Dynasty Warriors 2
+SLUS_202.77	Dynasty Warriors 3
+SLES_506.41	Dynasty Warriors 3
+SLKA_250.50	Dynasty Warriors 3
+SLKA_251.87	Dynasty Warriors 3: Empires
+SLUS_206.17	Dynasty Warriors 3: Xtreme Legends
+SLES_514.41	Dynasty Warriors 3: Xtreme Legends
+SLES_514.42	Dynasty Warriors 3: Xtreme Legends
+SLES_514.43	Dynasty Warriors 3: Xtreme Legends
+SLKA_250.85	Dynasty Warriors 3: Xtreme Legends
+SLUS_206.53	Dynasty Warriors 4
+SLUS_211.53	Dynasty Warriors 5
+SLUS_203.94	Ecco the Dolphin: Defender of the Future
+SCES_504.99	Ecco the Dolphin: Defender of the Future
+SLUS_200.41	ESPN International Track & Field
+SLES_503.56	ESPN International Winter Sports
+SLUS_209.19	ESPN NFL 2K5
+SLUS_209.21	ESPN NHL 2K5
+SLES_529.43	ESPN NFL 2K5
+SLES_529.66	ESPN NHL 2K5
+SLUS_217.79	Eternal Poison
+SLUS_200.15	Eternal Ring Fix instant death glitch
+SLUS_205.98	Everblue 2
+SLES_513.81	Everblue 2
+SLPM_622.14	Everblue 2
+SLUS_200.16	Evergrace
+SLES_500.50	Evergrace
+SLPS_250.03	Evergrace
+SCES_545.35	Everybody's Tennis
+SCKA_200.88	Everybody's Tennis
+SLUS_204.03	Evil Dead: A Fistful of Boomstick
+SLES_518.06	Evil Dead: A Fistful of Boomstick
+SLES_515.88	Evil Dead: A Fistful of Boomstick
+SLES_502.01	Evil Twin: Cyprien's Chronicles
+SLUS_205.46	Evolution Snowboarding
+SLES_513.92	Evolution Snowboarding
+SLPM_652.31	Evolution Snowboarding
+SLPS_200.05	EX Billiards
+SCCS_400.18	EyeToy: Saru EyeToy: Oosawagi! Ukkiuki Game Tenkomori!!
+SLUS_202.64	F1 2001
+SLES_504.23	F1 2001
+SLES_504.31	F1 2001
+SLPS_201.20	F1 2001
+SLUS_204.55	F1 2002
+SLES_508.74	F1 2002
+SLES_508.75	F1 2002
+SLPS_201.99	F1 2002
+SLUS_206.93	F1 Career Challenge
+SLES_515.84	F1 Career Challenge
+SLPS_202.95	F1 Career Challenge
+SLUS_201.03	F1 Championship Season 2000
+SLES_500.17	F1 Championship Season 2000
+SLPS_200.44	F1 Championship Season 2000
+SLES_500.46	F1 Racing Championship
+SLES_500.47	F1 Racing Championship
+SLES_535.39	Fahrenheit
+SLES_535.40	Fahrenheit
+SLPM_661.93	Fahrenheit
+SLUS_205.39	Fallout: Brotherhood of Steel
+SLES_515.25	Fallout: Brotherhood of Steel
+SLES_515.26	Fallout: Brotherhood of Steel
+SLPM_659.15	Fallout: Brotherhood of Steel
+SLUS_203.88	Fatal Frame
+SLPS_250.74	Fatal Frame
+SLPS_732.55	Fatal Frame [PlayStation 2 the Best: Reprint]
+SLPS_732.45	Fatal Frame: Zero [PlayStation 2 The Best]
+SCPS_560.08	Fatal Frame: Zero
+SLPS_255.44	Fatal Frame: Zero
+SCPS_550.43	Fatal Frame: Zero
+SLUS_207.66	Fatal Frame 2: Crimson Butterfly
+NPUD_207.66	Fatal Frame 2: Crimson Butterfly
+SLPS_200.20	FIFA 2000 World Championship
+SLES_500.13	FIFA 2001
+SLES_500.12	FIFA 2001
+SLES_500.16	FIFA 2001
+SLES_500.14	FIFA 2001
+SLES_500.11	FIFA 2001
+SLES_500.15	FIFA 2001
+SLUS_205.80	FIFA 2003
+SLES_511.97	FIFA 2003
+SLPS_251.79	FIFA 2003
+SLUS_207.50	FIFA 2004
+SLES_519.53	FIFA 2004
+SLES_519.63	FIFA 2004
+SLES_519.64	FIFA 2004
+SLES_535.30	FIFA '06
+SLES_535.31	FIFA '06
+SLUS_212.80	FIFA '06
+SLES_535.32	FIFA '06
+SLES_535.29	FIFA '06
+SLES_535.33	FIFA '06
+SLUS_291.60	FIFA '06 [Demo]
+SLES_542.44	FIFA '07
+SLKA_253.96	FIFA '07
+SLES_542.41	FIFA '07
+SLES_542.46	FIFA '07
+SLES_542.43	FIFA '07
+SLES_542.40	FIFA '07
+SLUS_291.94	FIFA '07 [Demo]
+SLUS_214.33	FIFA Soccer '07
+SLUS_205.24	Fighter Maker 2
+SLES_534.08	Fighting Angels
+SLUS_203.12	Final Fantasy X
+SCES_504.90	Final Fantasy X
+SCES_504.91	Final Fantasy X
+SCES_504.92	Final Fantasy X
+SCES_504.93	Final Fantasy X
+SCES_504.94	Final Fantasy X
+SLPS_250.50	Final Fantasy X
+SLPS_250.88	Final Fantasy X International
+SLPM_675.13	Final Fantasy X International
+SLUS_206.72	Final Fantasy X-2
+SLES_518.15	Final Fantasy X-2
+SLES_518.16	Final Fantasy X-2
+SLES_518.17	Final Fantasy X-2
+SLES_518.18	Final Fantasy X-2
+SLES_518.19	Final Fantasy X-2
+SLKA_251.44	Final Fantasy X-2
+SLPS_252.50	Final Fantasy X-2
+SLPM_654.78	Final Fantasy X-2 International
+SLUS_214.75	Final Fantasy XII [Collector's Edition]
+SLUS_209.63	Final Fantasy XII
+SLUS_291.71	Final Fantasy XII [Demo]
+SLES_543.54	Final Fantasy XII
+SLES_543.55	Final Fantasy XII
+SLES_543.56	Final Fantasy XII
+SLES_543.57	Final Fantasy XII
+SLES_543.58	Final Fantasy XII
+SCAJ_201.88	Final Fantasy XII: International: Zodiac Job System
+SLPM_550.22	Final Fantasy XII [Ultimate Hits]
+SLPM_552.10	Final Fantasy XII International: Zodiac Job System [Ultimate Hits]
+SCKA_201.38	Final Fantasy XII International: Zodiac Job System [Ultimate Hits]
+SCAJ_201.72	Final Fantasy XII
+SCKA_200.73	Final Fantasy XII
+SLPM_663.20	Final Fantasy XII / ファイナルファンタジーⅫ
+SLPM_667.50	"Final Fantasy XII International: Zodiac Job System
+ファイナルファンタジーⅫ　インターナショナル　ゾディアックジョブシステム"
+SLUS_210.72	Finny the Fish & the Seven Waters
+SLUS_217.02	Fire Pro Wrestling: Returns
+SLUS_209.01	FlatOut
+SLES_527.53	FlatOut
+SLUS_212.51	FlatOut 2
+SLES_540.02	FlatOut 2
+SLES_540.03	FlatOut 2
+SLKA_254.01	FlatOut 2
+SLUS_211.57	Flipnic
+SLUS_291.49	Flipnic: Ultimate Pinball [Demo]
+SLES_520.65	Flipnic
+SCPS_150.50	Flipnic / フリップニック
+SCES_538.51	Forbidden Siren 2
+SCKA_200.69	Forbidden Siren 2
+SLES_532.96	Ford Mustang: The Legend Lives
+SLUS_211.62	Ford Mustang: The Legend Lives
+SLUS_212.76	Ford vs. Chevy
+SLES_536.98	Ford vs. Chevy
+SLUS_203.43	Forever Kingdom
+SLUS_208.04	Forgotten Realms: Demon Stone
+SLES_526.69	Forgotten Realms: Demon Stone
+SLED_528.52	Forgotten Realms: Demon Stone
+SLKA_252.52	Forgotten Realms: Demon Stone
+SLPM_659.27	Forgotten Realms: Demon Stone
+SLUS_207.88	Ford Racing 2
+SLES_517.05	Ford Racing 2
+SCUS_971.50	Formula One 2001
+SCES_500.04	Formula One 2001
+SCPS_150.19	Formula One 2001
+SCES_510.04	Formula One 2002
+SCPS_150.32	Formula One 2002
+SCPS_550.47	Formula One 2002
+SCES_515.92	Formula One 2003
+SCCS_400.19	Formula One 04
+TCES_520.42	Formula One 04
+SCES_520.42	Formula One 04
+SCED_526.87	Formula One 04
+SCPS_150.83	Formula One 04
+SCCS_400.19	Formula One 04
+SCES_530.33	Formula One 05
+TCES_530.33	Formula One 05
+SCED_534.47	Formula One 05
+SCED_534.48	Formula One 05
+SCPS_150.98	Formula One 05
+SCES_539.50	Formula One 06
+SCED_542.07	Formula One 06
+SCPS_151.17	Formula One 06
+SLUS_202.84	Freaky Flyers
+SLES_507.13	Freaky Flyers
+SLES_545.59	Free Running
+SLUS_206.58	Freedom Fighters: The Battle for Liberty Island
+SLES_514.67	Freedom Fighters
+SLES_514.68	Freedom Fighters
+SLES_514.69	Freedom Fighters
+SLES_514.70	Freedom Fighters
+SLES_514.71	Freedom Fighters
+SLPM_655.48	Freedom Fighters
+SLUS_203.67	Freekstyle
+SLES_507.53	Freekstyle
+SLPS_202.31	Freekstyle Motocross
+SLPM_623.41	Fushigi no Kuni no Alice / 不思議の国のアリス
+SLPM_661.63	Fuuraiki 2
+SCPS_150.72	Gacha Mecha Stadium Saru Battle / ガチャメカスタジアム　サルバト〜レ
+SCPS_110.26	Gacharoku
+SLES_528.45	Gadget & the Gadgetinis
+SLUS_205.60	Galerians Ash
+SLES_513.43	Galerians Ash
+SLPS_251.19	Galerians Ash
+SLUS_213.93	Gallop Racer 2006
+SLPM_661.86	Game ni Nattayo! Dokuru-chan / ゲームになったよ！ドクロちゃん　～健康診断大作戦～
+SLPM_650.97	Garakuta Meisaku Gekijou: Rakugaki Oukoku
+SLPS_255.04	Garou: Mark of the Wolves [Limited Edition]
+SLPS_255.09	Garou: Mark of the Wolves
+SLPS_257.93	Garou: Mark of the Wolves [NeoGeo Online Collection the Best]
+SLUS_200.47	Gauntlet: Dark Legacy
+SLES_502.11	Gauntlet: Dark Legacy
+SLPM_621.25	Gauntlet: Dark Legacy
+SLUS_210.77	Gauntlet: Seven Sorrows
+SLES_536.67	Gauntlet: Seven Sorrows
+SLES_536.44	Gene Troopers
+SLUS_210.06	Ghost in the Shell: Stane Alone Complex
+SCPS_150.64	Ghost in the Shell: Stand Alone Complex
+SCKA_200.27	Ghost in the Shell: Stand Alone Complex
+SLUS_213.06	Ghost Rider
+SLES_543.17	Ghost Rider
+SLUS_209.93	Ghosthunter
+SCES_514.63	Ghosthunter
+SCES_521.56	Ghosthunter: Hunter on the spectres
+SLPM_657.01	Ghosthunter
+SLUS_201.78	Giants: Citizen Kabuto
+SLES_503.14	Giants: Citizen Kabuto
+SLPM_622.09	Gigantic Drive
+SLUS_202.94	Gitaroo Man
+SLES_506.53	Gitaroo Man
+SLPM_620.62	Gitaroo Man (Trial Version)
+SLES_544.64	Global Defence Force
+SLUS_215.03	God Hand
+SLES_544.90	God Hand
+NPED_000.52	God Hand
+SCKA_200.90	God Hand
+SCUS_973.99	God of War
+SCKA_300.02	God of War
+SCES_531.33	God of War
+SCUS_974.81	God of War II
+SCES_542.06	God of War II
+SCKA_300.06	God of War II
+SLES_527.66	Godzilla: Save The Earth
+SLES_541.81	Gottlieb Pinball Classics
+SLUS_207.12	Gradius V
+SLES_520.95	Gradius V
+NPUD_207.12	Gradius V
+SLPM_624.62	Gradius V
+SLUS_211.36	Graffiti Kingdom
+SLES_533.11	Graffiti Kingdom
+SLPM_650.81	Grandia II
+SLUS_213.34	Grandia III
+SLUS_213.45	Grandia III
+SCUS_971.02	Gran Turismo 3: A-Spec
+SCUS_975.12	Gran Turismo 3: A-Spec
+PBPX_955.02	Gran Turismo 3: A-Spec
+PBPX_955.03	Gran Turismo 3: A-Spec
+SCES_502.94	Gran Turismo 3: A-Spec (Applies to both v1.00 and v2.00)
+SCPS_150.09	Gran Turismo 3: A-Spec
+SCPS_550.07	Gran Turismo 3: A-Spec
+SCUS_972.19	Gran Turismo 3: A-Spec: Nissan 350Z Edition
+PAPX_902.08	Gran Turismo 3: A-spec: Replay Theater
+SCUS_971.15	Gran Turismo 3: A-Spec [Demo]
+SCPS_720.01	Gran Turismo 3: A-spec [Mega Hits!]
+SCES_524.38	Gran Turismo 4: Prologue
+SCPS_150.55	Gran Turismo 4: Prologue
+SCPS_193.04	Gran Turismo 4: Prologue [PlayStation 2 The Best]
+SCAJ_200.66	Gran Turismo 4: Prologue
+PBPX_955.23	Gran Turismo 4: Prologue
+PBPX_955.24	Gran Turismo 4: Prologue
+SCUS_973.28	Gran Turismo 4
+SCES_517.19	Gran Turismo 4 (ALT)
+SCPS_170.01	Gran Turismo 4
+SCKA_300.01	Gran Turismo 4
+SCCS_600.02	Gran Turismo 4 [Review Copy]
+SCPS_150.10	Gran Turismo Concept 2001 Tokyo
+SCES_508.50	Gran Turismo Concept 2002 Tokyo-Geneva
+SCES_508.58	Gran Turismo Concept 2002 Tokyo-Geneva
+SCPS_559.02	Gran Turismo Concept 2002 Tokyo-Geneva
+SCPS_559.03	Gran Turismo Concept 2002 Tokyo-Geneva
+SCKA_200.29	Gran Turismo Concept 2002 Tokyo-Seoul [BigHits Series]
+SCPS_560.05	Gran Turismo Concept 2002 Tokyo-Seoul (Applies to both v1.02 and v2.00)
+SLUS_214.23	Grand Theft Auto: Liberty City Stories
+SLES_541.35	Grand Theft Auto: Liberty City Stories
+SLES_541.36	Grand Theft Auto: Liberty City Stories
+SLPM_550.38	Grand Theft Auto: Liberty City Stories [Best Price!]
+SLPM_668.51	Grand Theft Auto: Liberty City Stories
+SLUS_209.46	Grand Theft Auto: San Andreas
+NPUD_209.46	Grand Theft Auto: San Andreas
+SLES_525.41	Grand Theft Auto: San Andreas
+SLES_529.27	Grand Theft Auto: San Andreas
+NPED_000.70	Grand Theft Auto: San Andreas
+SLPM_659.84	Grand Theft Auto: San Andreas
+SLUS_205.52	Grand Theft Auto: Vice City
+NPUD_205.52	Grand Theft Auto: Vice City
+SLES_510.61	Grand Theft Auto: Vice City
+SLES_513.16	Grand Theft Auto: Vice City
+SLES_515.95	Grand Theft Auto: Vice City
+SLPM_654.88	Grand Theft Auto: Vice City
+SLPM_660.34	Grand Theft Auto: Vice City
+SLPM_667.90	Grand Theft Auto: Vice City [Best Price]
+SLUS_215.90	Grand Theft Auto: Vice City Stories
+SLES_546.22	Grand Theft Auto: Vice City Stories
+SLES_546.23	Grand Theft Auto: Vice City Stories
+SLPM_551.35	Grand Theft Auto: Vice City Stories [Best Price!]
+SLPM_669.17	Grand Theft Auto: Vice City Stories
+SLUS_200.62	Grand Theft Auto III
+NPUD_200.62	Grand Theft Auto III
+SLES_503.30	Grand Theft Auto III
+SLES_507.93	Grand Theft Auto III
+NPED_000.63	Grand Theft Auto III
+SLPM_552.93	Grand Theft Auto III
+SLUS_216.04	GRIMgRiMoiRe
+NPUD_216.04	GRIMgRiMoiRe
+SLES_548.97	GRIMgRiMoiRe
+SLPS_257.71	GRIMgRiMoiRe
+SLPS_257.72	GRIMgRiMoiRe
+SLPS_258.84	GRIMgRiMoiRe [The Best Price]
+SLUS_207.58	Growlanser Generations [Disc1of2]
+SLUS_207.59	Growlanser Generations [Disc2of2]
+SLUS_215.71	Growlanser Heritage of War
+SLPS_201.06	Growlanser II: The Sense of Justice
+SLKA_150.07	Growlanser II: The Sense of Justice
+SLPM_621.08	Growlanser III: The Dual Darkness
+SLKA_150.21	Growlanser III: The Dual Darkness
+SLES_526.02	GT Racers
+SLUS_212.24	Guitar Hero
+SLUS_217.40	Guitar Hero: Aerosmith
+SLES_551.91	Guitar Hero: Aerosmith
+SLES_552.00	Guitar Hero: Aerosmith
+SLES_555.44	Guitar Hero: Greatest Hits
+SLUS_218.43	Guitar Hero: Metallica
+SLES_554.72	Guitar Hero: Metallica
+SLUS_218.66	Guitar Hero: Smash Hits
+SLUS_218.67	Guitar Hero: Van Halen
+SLES_555.18	Guitar Hero: Van Halen
+SLUS_217.81	Guitar Hero: World Tour
+SLES_553.55	Guitar Hero: World Tour
+SLUS_216.72	Guitar Hero III: Legends of Rock
+SLES_549.62	Guitar Hero III: Legends of Rock
+SLES_549.74	Guitar Hero III: Legends of Rock
+SLKA_253.63	Guitar Hero III: Legends of Rock
+SLUS_218.65	Guitar Hero 5 [Game Only]
+SLES_555.33	Guitar Hero 5
+SLES_509.84	Gumball 3000
+SLUS_211.39	Gun
+SLES_536.47	Gun
+SLES_535.23	Gun
+SLUS_200.80	GunGriffon Blaze
+SLES_501.58	Gungriffon Blaze
+SLES_501.60	Gungriffon Blaze
+SLES_501.59	Gungriffon Blaze
+SLPS_200.50	Happy! Happy!! Boarders in Hokkaido
+SCES_526.77	Hardware: Online Arena
+SLUS_207.69	Harry Potter: Quidditch World Cup
+SLES_517.87	Harry Potter: Quidditch World Cup
+SLPM_624.08	Harry Potter: Quidditch World Cup
+SLUS_205.76	Harry Potter and the Chamber of Secrets
+SLES_511.92	Harry Potter and the Chamber of Secrets
+SLES_511.93	Harry Potter and the Chamber of Secrets
+SLES_511.94	Harry Potter and the Chamber of Secrets
+SLES_511.95	Harry Potter and the Chamber of Secrets
+SLES_511.96	Harry Potter and the Chamber of Secrets
+SLES_512.14	Harry Potter and the Chamber of Secrets
+SLES_512.15	Harry Potter and the Chamber of Secrets
+SLES_512.16	Harry Potter and the Chamber of Secrets
+SLES_512.17	Harry Potter and the Chamber of Secrets
+SLES_512.18	Harry Potter and the Chamber of Secrets
+SLES_512.19	Harry Potter and the Chamber of Secrets
+SLPM_645.28	Harry Potter and the Chamber of Secrets
+SLPM_625.13	Harry Potter and the Chamber of Secrets [EA Best Hits]
+SLUS_213.25	Harry Potter and the Goblet of Fire
+SLES_537.26	Harry Potter and the Goblet of Fire
+SLES_537.27	Harry Potter and the Goblet of Fire
+SLES_537.28	Harry Potter and the Goblet of Fire
+SLUS_218.08	Harry Potter and the Half-Blood Prince
+SLES_552.48	Harry Potter and the Half-Blood Prince
+SLES_552.49	Harry Potter and the Half-Blood Prince
+SLUS_216.19	Harry Potter and the Order of the Phoenix
+SLKA_252.71	Harry Potter and the Order of the Phoenix
+SLES_547.78	Harry Potter and the Order of the Phoenix
+SLES_547.79	Harry Potter and the Order of the Phoenix
+SLKA_251.72	Harry Potter and the Prisoner of Azkaban
+SLPM_656.12	Harry Potter and The Prisoner of Azkaban
+SLUS_209.26	Harry Potter and The Prisoner of Azkaban
+SLES_526.00	Harry Potter and The Prisoner of Azkaban
+SLES_524.40	Harry Potter and the Prisoner of Azkaban
+SLES_525.27	Harry Potter og Fangen fra Azkaban
+SLPM_668.86	Harry Potter to Fushichou no Kishidan
+SLPM_622.41	Harry Potter to Himitsu no Heya
+SLPS_202.34	Harry Potter to Himitsu no Heya
+SLUS_210.75	Haunting Ground
+SLES_528.77	Haunting Ground
+SLUS_204.16	Headhunter
+SCES_505.00	Headhunter
+SLES_518.65	Heartbeat Boxing
+SLUS_215.70	Heatseeker
+SLPM_621.22	Hermina to Culus: Lilie no Atelier Mou Hitotsu no Monogatari
+SLES_530.28	Hitman: Blood Money
+SLES_530.29	Hitman: Blood Money
+SLES_530.30	Hitman: Blood Money
+SLES_530.31	Hitman: Blood Money
+SLES_530.32	Hitman: Blood Money
+SLUS_208.82	Hitman: Contracts
+SLES_521.32	Hitman: Contracts
+SLES_521.33	Hitman: Contracts
+SLES_521.34	Hitman: Contracts
+SLES_521.35	Hitman: Contracts
+SLES_521.36	Hitman: Contracts
+SLPS_254.06	Hitman: Contracts
+SLKA_252.18	Hitman: Contracts
+SLUS_203.74	Hitman 2: Silent Assassin
+SLES_509.92	Hitman 2: Silent Assassin
+SLES_511.07	Hitman 2: Silent Assassin
+SLES_511.08	Hitman 2: Silent Assassin
+SLES_511.09	Hitman 2: Silent Assassin
+SLES_511.10	Hitman 2: Silent Assassin
+SLKA_250.55	Hitman 2: Silent Assassin
+SLPS_252.69	Hitman 2: Silent Assassin
+SCUS_971.30	Hot Shots Golf 3
+SCUS_974.01	Hot Shots Golf Fore!
+SCUS_976.10	Hot Shots Tennis
+SLUS_216.28	Hot Wheels: Beat That!
+SLES_549.71	Hot Wheels: Beat That!
+SLUS_207.37	Hot Wheels: World Race
+SLES_518.79	Hot Wheels: World Race
+SLUS_213.57	Hummer Badlands
+SLES_541.58	Hummer Badlands
+SLUS_205.11	Hunter: The Reckoning Wayward
+SLUS_290.59	Hunter: The Reckoning Wayward [Demo]
+SLES_518.23	Hunter: The Reckoning Wayward
+SLPM_650.05	I am the Coach
+SLPM_663.01	Ibara
+TCPS_101.31	Ibara
+SLUS_213.07	Ice Age 2: The Meltdown
+SCUS_971.13	Ico
+SCES_507.60	Ico
+SCKA_200.28	Ico
+SCPS_110.03	Ico
+SCPS_191.03	Ico
+SCPS_550.01	Ico
+SCCS_400.05	Ico
+SLES_509.14	International Cue Club
+SLES_500.36	International Track & Field
+SLUS_209.13	Inuyasha: The Secret of The Cursed Mask
+SLKA_250.60	I.Q Remix+: Intelligent Qube
+SLUS_213.07	Ice Age 2: The Meltdown
+SLES_539.84	Ice Age 2: The Meltdown
+SLES_541.47	Ice Age 2: The Meltdown [RUS]
+SCES_507.60	Ico
+SCPS_560.01	Ico
+SLUS_211.96	Indigo Prophecy
+SLKA_253.09	Indigo Prophecy
+SLES_526.80	Intellivision Lives!: The History of Video Gaming
+SLES_500.39	International Superstar Soccer
+SLES_534.01	Iron Sea
+SCES_524.12	Jackie Chan Adventures
+SLUS_203.09	Jade Cocoon 2
+SLPS_250.54	Jade Cocoon 2
+SCUS_971.24	Jak and Daxter: The Precursor Legacy
+SCUS_972.65	Jak II
+SCUS_973.30	Jak 3
+SCUS_974.29	Jak X: Combat Racing (v1.00)
+SCUS_975.74	Jak X: Combat Racing (v2.00)
+SCES_532.86	Jak X: Combat Racing
+SLUS_202.65	James Bond 007: Agent Under Fire
+SLES_505.39	James Bond 007: Agent Under Fire
+SLPM_675.05	James Bond 007: Agent Under Fire / ００７　에이전트 언더　파이어
+SLUS_207.51	James Bond 007: Everything or Nothing
+SLUS_290.95	James Bond 007: Everything or Nothing [Demo]
+SLES_520.05	James Bond 007: Everything or Nothing
+SLES_520.46	James Bond 007: Everything or Nothing
+SLPM_654.46	James Bond 007: Everything or Nothing / ００７　エブリシング　オア　ナッシング
+SLKA_251.29	James Bond 007: Everything or Nothing
+SLPM_666.15	James Bond 007: Everything or Nothing & Nightfire [EA Best Hits]
+SLPM_657.25	James Bond 007: Everything or Nothing [EA Best Hits]
+SLUS_212.82	James Bond 007: From Russia With Love
+SLES_535.53	James Bond 007: From Russia With Love
+SLPM_663.22	James Bond 007: From Russia With Love / 007 ロシアより愛をこめて
+SLUS_291.68	James Bond 007: From Russia with Love [Demo]
+SLUS_291.67	James Bond 007: From Russia with Love, Need for Speed: Most Wanted, SSX World Tour [Demo]
+SLED_536.73	James Bond 007: From Russia with Love
+SLPM_655.38	James Bond 007: Nightfire [EA Best Hits]
+SLUS_205.79	James Bond 007: Nightfire
+SLES_512.58	James Bond 007: Nightfire
+SLES_512.60	James Bond 007: Nightfire
+SLPS_252.03	James Bond 007: Nightfire / ００７　～ナイトファイア～
+SLKA_250.04	James Bond 007: Nightfire
+SLUS_210.62	Jaws Unleashed
+SLES_541.70	Jaws Unleashed
+SLUS_202.45	Jeremy McGrath: Supercross World 2002
+SLES_505.44	Jet Ion GP
+SCUS_972.79	Jet Li: Rise to Honor
+SCED_522.61	Jet Li: Rise to Honour
+SLPM_621.92	Jikkyou Powerful Pro Yakyuu 9 実況パワフルプロ野球９
+SLPM_622.74	Jikkyou Powerful Pro Yakyuu 9: Ketteiban 実況パワフルプロ野球９決定版
+SLPM_654.45	Jikkyou Powerful Pro Yakyuu 10: Chou Ketteiban: 2003 Memorial 実況パワフルプロ野球　１０　超決定版　～２００３　メモリアル～
+SLPM_656.30	Jikkyou Powerful Pro Yakyuu 11 実況パワフルプロ野球１１
+SLPM_658.25	Jikkyou Powerful Pro Yakyuu 11: Chou Ketteiban 実況パワフルプロ野球１１　超決定版
+SLPM_660.61	Jikkyou Powerful Pro Yakyuu 12 実況パワフルプロ野球１２
+SLPM_665.90	Jikkyou Powerful Pro Yakyuu 13: Ketteiban 実況パワフルプロ野球１３　決定版
+SLPS_201.31	Jissen Pachi-Slot Hisshouhou! Juuou
+SLPM_664.95	Joshikousei Game's High!
+GUST_000.01	Judie no Atelier: Gramnad no Renkinjutsushi [Premium Box]
+SLPM_653.59	Judie no Atelier: Gramnad no Renkinjutsushi
+SLUS_213.04	Justice League Heroes
+SLES_544.23	Justice League Heroes
+SLES_521.79	Kaan Barbarian Blade
+SLPS_252.95	Kaena
+SLPS_732.65	Kagero II: Dark Illusion [PlayStation 2 the Best Reprint]
+SCAJ_201.33	Kagero II: Dark Illusion
+SLPS_732.48	Kagero II: Dark Illusion / Trapt / 影牢Ⅱ　－Ｄａｒｋ　ｉｌｌｕｓｉｏｎ－
+SLPS_254.45	Kagero II: Dark Illusion / Trapt / 影牢Ⅱ　－Ｄａｒｋ　ｉｌｌｕｓｉｏｎ－
+SLUS_210.89	Karaoke Revolution Vol.3
+SLUS_210.08	Katamari Damacy
+NPUD_210.08	Katamari Damacy
+NPJD_000.20	Katamari Damacy
+SLPS_253.60	Katamari Damacy
+SCKA_200.25	Katamari Damacy
+SLPS_250.33	Kaze no Klonoa 2: Sekai ga Nozonda Wasuremono (風のクロノア2 世界が望んだ忘れもの)
+SLPS_200.58	Kengo
+SLUS_200.21	Kengo: Master of Bushido
+SLES_501.14	Kengo: Master of Bushido
+SLPM_657.00	Kengo 3
+SLPM_742.20	Kengo 3 [PlayStation 2 The Best]
+SLKA_251.99	Kengo 3
+SLAJ_250.49	Kengo 3
+SLES_500.18	Kessen
+SLES_500.19	Kessen
+SLES_500.20	Kessen
+SLUS_202.75	Kessen 2
+SLPM_650.15	Kessen 2
+NPUD_202.75	Kessen 2
+SLES_505.78	Kessen 2
+SLPS_255.69	Kidou Senshi Gundam SEED: Rengou vs. Z.A.F.T.
+SLUS_207.06	Kill Switch
+SLES_521.24	Kill Switch
+SCUS_971.32	Kinetica
+SCUS_971.61	Kinetica [Demo]
+SLUS_210.46	King Arthur
+SLES_528.61	King Arthur
+SLUS_203.70	Kingdom Hearts
+SCES_509.67	Kingdom Hearts
+SCES_509.68	Kingdom Hearts
+SCES_509.69	Kingdom Hearts
+SCES_509.70	Kingdom Hearts
+SCES_509.71	Kingdom Hearts
+SCED_513.14	Kingdom Hearts
+SLPS_251.05	Kingdom Hearts / キングダム　ハーツ
+SLPS_251.97	Kingdom Hearts: Final Mix [Limited Edition]
+SCAJ_201.49	Kingdom Hearts: Final Mix [Ultimate Hits]
+SLPM_661.23	Kingdom Hearts: Final Mix [Ultimate Hits]
+SLAJ_250.04	Kingdom Hearts: Final Mix
+SCAJ_250.04	Kingdom Hearts: Final Mix
+SLPS_251.98	Kingdom Hearts: Final Mix / キングダムハーツ ファイナルミックス
+SLUS_217.99	Kingdom Hearts: Re:Chain of Memories
+SLPM_666.76	Kingdom Hearts: Re:Chain of Memories
+SLUS_210.05	Kingdom Hearts II
+SLES_541.14	Kingdom Hearts II
+SLES_542.32	Kingdom Hearts II
+SLES_542.33	Kingdom Hearts II
+SLES_542.34	Kingdom Hearts II
+SLES_542.35	Kingdom Hearts II
+SLPM_662.33	Kingdom Hearts II / キングダム　ハーツⅡ
+SLPM_666.75	Kingdom Hearts II: Final Mix / キングダムハーツＩＩファイナルミックス
+SLUS_203.18	King's Field: The Ancient City
+SLES_509.20	King's Field IV
+SLUS_201.51	Klonoa 2: Lunatea's Veil
+SCES_503.54	Klonoa 2: Lunatea's Veil
+SLKA_150.06	Knight Rider: The Game
+SLES_510.11	Knight Rider: The Game
+SLUS_201.50	Knockout Kings 2001
+SLES_501.28	Knockout Kings 2001
+SLES_501.29	Knockout Kings 2001
+SLES_501.30	Knockout Kings 2001
+SLPS_200.95	Knockout Kings 2001
+SLUS_203.69	Knockout Kings 2002
+SLES_507.27	Knockout Kings 2002
+SLES_508.02	Knockout Kings 2002
+SLES_508.03	Knockout Kings 2002
+SLPS_201.91	Knockout Kings 2002
+SLPM_665.82	Kohitsuji Hokaku Keakaku! Sweet Boys Life / 仔羊捕獲ケーカク! スイートボーイズライフ
+SLPS_254.40	Konjiki no Gashbell!! Gekitou! Saikyou no Mamono-tachi
+SLUS_210.07	Kuon
+SLES_534.11	Kuon
+SLPS_253.29	Kuon / 九怨
+SLPM_551.91	L2 Love X Loop
+SLPM_645.22	La Pucelle
+SLUS_208.47	La Pucelle: Tactics
+NPUD_208.47	La Pucelle: Tactics
+SLUS_215.55	Lara Croft Tomb Raider: Anniversary
+SLUS_212.03	Lara Croft Tomb Raider: Legends
+SLES_539.08	Lara Croft Tomb Raider: Legends
+SLUS_204.67	Lara Croft Tomb Raider: The Angel of Darkness
+SLES_512.27	Lara Croft Tomb Raider: The Angel of Darkness
+SLPS_252.46	Lara Croft Tomb Raider: The Angel of Darkness
+SLKA_250.73	Lara Croft Tomb Raider: The Angel of Darkness
+SLES_508.41	Largo Winch: Empire Under Threat
+SLES_510.93	Largo Winch: Empire Under Threat
+SLUS_207.73	Legacy of Kain: Defiance
+SLES_521.50	Legacy of Kain: Defiance
+SLUS_217.59	LEGO Indiana Jones: The Original Adventures
+SLES_551.33	LEGO Indiana Jones: The Original Adventures
+SLUS_214.09	LEGO Star Wars II: The Original Trilogy
+SLES_542.21	LEGO Star Wars II: The Original Trilogy
+SLES_531.94	LEGO Star Wars
+SLUS_210.83	LEGO Star Wars
+SLES_526.41	Leisure Suit Larry: Magna Cum Laude: Uncut
+SLES_526.42	Leisure Suit Larry: Magne cum Laude
+SLES_526.43	Leisure Suit Larry: Magna Cum Laude
+SLES_526.44	Leisure Suit Larry: Magna Cum Laude
+SLES_526.45	Leisure Suit Larry: Magne cum Laude
+SLUS_207.35	Lethal Skies II
+SLPM_651.16	Lilie no Atelier Plus: Salburg no Renkinjutsushi 3
+GUST_000.05	Lilie no Atelier Plus: Salberg no Renkinjutsushi 3 [Limited Edition]
+SLPM_620.02	Live World Soccer 2000
+SLUS_203.76	Mad Maestro!
+SLES_507.70	Mad Maestro!
+SLUS_212.13	Madden NFL '06
+SLPM_662.04	Madden NFL '06
+SLUS_200.93	Madden NFL 2001
+SLES_500.21	Madden NFL 2001
+SLPS_200.65	Madden NFL 2001 Super Bowl
+SLUS_206.71	Mafia
+SLES_522.78	Mafia
+SLES_522.79	Mafia
+SLES_522.80	Mafia
+SLES_522.81	Mafia
+SLES_522.82	Mafia
+SLUS_205.93	Magic Pengel: The Quest for Color
+SLUS_210.35	Major League Baseball 2K5
+SLUS_213.24	Major League Baseball 2K5 [World Series Edition]
+SLES_510.58	Maken Shao
+SLPS_250.43	Maken Shao
+SLUS_203.58	Malice
+SLES_524.13	Malice
+SLUS_217.35	Mana Khemia: Alchemists of Al-Revis
+SLES_554.43	Mana Khemia: Alchemists of Al-Revis
+SLUS_218.90	Mana Khemia 2: Fall of Alchemy
+GUST_000.10	Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi [Premium Box]
+SLPM_550.05	Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi
+SLPM_551.14	Mana-Khemia 2: Ochita Gakuen to Renkinjutsushi-tachi
+NPJD_000.40	Mana Khemia 2: Ochita Gakuen to Renkinjutsushi-tachi
+SLUS_208.27	Manhunt
+NPUD_208.27	Manhunt
+SLES_520.23	Manhunt
+SLUS_216.13	Manhunt 2
+SLES_548.19	Manhunt 2
+SLUS_206.46	Mark Davis Pro Bass Challenge
+SLES_535.85	Marvel Nemesis: Rise of the Imperfects
+SLUS_212.81	Marvel Nemesis: Rise of the Imperfects
+SLUS_213.74	Marvel: Ultimate Alliance
+SLES_541.23	Marvel: Ultimate Alliance
+SLUS_202.30	Max Payne
+NPUD_202.30	Max Payne
+SLES_503.25	Max Payne
+SLES_503.26	Max Payne
+NPED_001.45	Max Payne
+SLPS_252.44	Max Payne
+SLUS_208.14	Max Payne 2
+SLPM_621.27	Maximo
+SLES_516.22	Maxxed Out Racing
+SLES_545.45	Maxxed Out Racing: Nitro
+SCPM_851.01	McDonald's Original Happy Disc / マクドナルドオリジナル　ハッピーディスク
+SLUS_211.99	Medal of Honor: European Assault
+SLES_533.32	Medal of Honor: European Assault
+SLES_533.33	Medal of Honor: European Assault
+SLES_533.34	Medal of Honor: European Assault
+SLES_533.35	Medal of Honor: European Assault
+SLES_533.36	Medal of Honor: European Assault
+SLPM_660.79	Medal of Honor: European Assault
+SLPM_665.14	Medal of Honor: European Assault [EA Best Hits]
+SLKA_252.43	Medal of Honor: European Assault
+SLPM_550.37	Medal of Honor: Europa Kyoushuu [EA:SY! 1980]
+SLES_518.73	Medal of Honor: Rising Sun
+SLUS_207.53	Medal of Honor: Rising Sun
+SLES_518.74	Medal of Honor: Rising Sun
+SLES_518.75	Medal of Honor: Rising Sun
+SLES_518.76	Medal of Honor: Rising Sun
+SLUS_209.60	Mega Man X8
+SLES_529.88	Mega Man X8
+SLPM_551.84	Melty Blood: Actress Again
+SLPM_664.38	Melty Blood: Act Cadenza
+SLUS_205.43	Metal Gear Solid 2
+SLUS_201.44	Metal Gear Solid 2: Sons of Liberty
+SLES_503.83	Metal Gear Solid 2: Sons of Liberty
+SLES_503.84	Metal Gear Solid 2: Sons of Liberty
+SLES_503.85	Metal Gear Solid 2: Sons of Liberty
+SLPM_650.78	Metal Gear Solid 2: Sons of Liberty
+SLPM_675.15	Metal Gear Solid 2: Sons of Liberty
+SLPM_667.92	Metal Gear Solid 2: Sons of Liberty [20th Anniversary Edition]
+ULKS_254.71	Metal Gear Solid 2: Sons of Liberty [Big Hit Series]
+SLED_501.17	Metal Gear Solid 2: Sons of Liberty [Demo] [Zone of the Enders Bonus Disc]
+SLUS_290.03	Metal Gear Solid 2: Sons of Liberty [Demo]
+SLPM_742.56	Metal Gear Solid 2: Sons of Liberty [PlayStation 2 the Best]
+SLPM_742.55	Metal Gear Solid 2: Sons of Liberty [PlayStation 2 the Best]
+SLPM_650.77	Metal Gear Solid 2: Sons of Liberty [Premium Package]
+SLPM_685.03	Metal Gear Solid 2: Sons of Liberty [Shareholder Edition]
+SLPM_620.43	Metal Gear Solid 2: Sons of Liberty [Trial Version]
+SLPM_670.08	Metal Gear Solid 2: Substance [Konami Dendou Collection]
+SLPM_749.01	Metal Gear Solid 2: Substance [PlayStation 2 the Best]
+SLUS_205.54	Metal Gear Solid 2: Substance
+SLES_820.09	Metal Gear Solid 2: Substance
+SLPM_670.02	Metal Gear Solid 2: Substance
+SLUS_209.15	Metal Gear Solid 3: Snake Eater
+SLES_820.13	Metal Gear Solid 3: Snake Eater
+SLES_820.24	Metal Gear Solid 3: Snake Eater
+SLES_820.26	Metal Gear Solid 3: Snake Eater
+SLES_820.32	Metal Gear Solid 3: Snake Eater
+SLKA_252.51	Metal Gear Solid 3: Snake Eater
+SLPM_657.90	Metal Gear Solid 3: Snake Eater
+SLUS_212.43	Metal Gear Solid 3: Subsistence
+SLUS_213.59	Metal Gear Solid 3: Subsistence [Limited Edition] [Disc2of3]
+SLES_820.42	Metal Gear Solid 3: Subsistance [Disc1of2]
+SLES_820.43	Metal Gear Solid 3: Subsistance [Disc2of2]
+SLES_820.44	Metal Gear Solid 3: Subsistance [Disc1of2]
+SLES_820.45	Metal Gear Solid 3: Subsistance [Disc2of2]
+SLES_820.46	Metal Gear Solid 3: Subsistance [Disc1of2]
+SLES_820.47	Metal Gear Solid 3: Subsistance [Disc2of2]
+SLES_820.48	Metal Gear Solid 3: Subsistance [Disc1of2]
+SLES_820.49	Metal Gear Solid 3: Subsistance [Disc2of2]
+SLKA_253.53	Metal Gear Solid 3: Subsistance [Limited Edition] [Disc1of2]
+SLKA_253.54	Metal Gear Solid 3: Subsistance [Limited Edition] [Disc2of2]
+SLPM_662.20	Metal Gear Solid 3: Subsistence [First Print Limited Edition] [Disc1of3]
+SLPM_662.21	Metal Gear Solid 3: Subsistence [First Print Limited Edition] [Disc2of3]
+SLPS_252.09	Metal Slug 3
+SLPS_254.28	Metal Slug 3 [SNK Best Collection]
+SLKA_250.49	Metal Slug 3
+SCAJ_200.21	Metal Slug 3
+SLES_525.99	Metal Slug 3
+SLUS_215.50	Metal Slug Anthology
+SLPS_257.62	Metal Slug Complete
+SLES_528.53	Miami Vice
+SLES_500.54	Midnight Club
+SLES_500.71	Midnight Club: Street Racing
+SLPS_200.68	Midnight Club: Street Racing
+SLUS_200.63	Midnight Club: Street Racing
+SLES_510.54	Midnight Club 2
+SLUS_202.09	Midnight Club II
+SLUS_210.29	Midnight Club 3: DUB Edition
+SLES_529.42	Midnight Club 3: DUB Edition
+SLUS_213.55	Midnight Club 3: DUB Edition Remix
+SLES_537.17	Midnight Club 3: DUB Edition Remix
+SLUS_203.45	Mike Tyson Heavyweight Boxing
+SLES_503.96	Mike Tyson Heavyweight Boxing
+SCPS_150.16	Minna no Golf 3 / みんなのＧＯＬＦ３
+SCPS_150.59	Minna no Golf 4 / みんなのＧＯＬＦ４
+SCPS_151.13	Minna no Tennis / みんなのテニス
+SCUS_975.83	MLB '08: The Show
+SLPM_625.55	Momotaro Densetsu
+SLES_518.56	Monster Attack
+SLPS_250.35	Monster Farm 3
+SCAJ_200.37	Monster Farm 4
+SLPS_252.63	Monster Farm 4
+SLPS_734.23	Monster Farm 4 [PlayStation 2 The Best]
+SLPS_255.85	Monster Farm 5
+SLUS_204.23	Mortal Kombat: Deadly Alliance
+SLES_507.17	Mortal Kombat: Deadly Alliance
+SLES_514.39	Mortal Kombat: Deadly Alliance
+SLUS_208.81	Mortal Kombat: Deception
+SLUS_210.81	Mortal Kombat: Deception [Premium Pack]
+SLUS_211.01	Mortal Kombat: Deception [Premium Pack]
+SLES_527.05	Mortal Kombat: Deception
+SLES_527.06	Mortal Kombat: Deception
+SLUS_210.87	Mortal Kombat: Shaolin Monks
+SLES_535.24	Mortal Kombat: Shaolin Monks
+SLES_535.25	Mortal Kombat: Shaolin Monks
+SLES_525.18	Motorbike King
+SLUS_208.61	MTV Music Generator 3: This is the Remix
+SLES_524.04	MTV Music Generator 3: This is the Remix
+SLUS_203.99	MTX Mototrax
+SLES_522.89	MTX Mototrax
+SLES_522.90	MTX Mototrax
+SLUS_209.83	Musashi: Samurai Legend
+SLES_535.21	Musashi: Samurai Legend
+SLPM_660.08	Musashiden II: Blademaster / 武蔵伝Ⅱ　ブレイドマスター
+SLUS_213.67	MVP '06: NCAA Baseball
+SLES_520.43	MX Unleashed Migrated
+SLUS_207.67	MX Unleashed
+SLUS_211.04	MX vs. ATV Unleashed
+SLES_531.06	MX vs. ATV Unleashed
+SLKA_252.82	MX vs. ATV Unleashed
+SLUS_217.01	MX vs. ATV Untamed
+SCUS_972.12	My Street (Online)
+SCES_516.77	My Street
+SLUS_204.34	Myst III: Exile
+SLES_507.26	Myst III: Exile
+SLPS_252.31	Myst III: Exile
+SLUS_205.21	Mystic Heroes
+SLES_513.58	Mystic Heroes
+SLES_514.76	Mystic Heroes
+SLES_514.77	Mystic Heroes
+SCAJ_201.31	namCollection: Namco 50th Anniversary
+SLPS_257.14	Naruto: Konoha Spirits!! / ＮＡＲＵＴＯ　－ナルト－　木ノ葉スピリッツ！！
+SLKA_252.32	Naruto: Narutimate Hero
+SLPS_252.93	Naruto: Narutimate Hero
+SLPS_732.12	Naruto: Narutimate Hero / ＮＡＲＵＴＯ　－ナルト－　ナルティメットヒーロー
+SLPS_253.98	Naruto: Narutimate Hero 2
+SLPS_732.21	Naruto: Narutimate Hero 2 / ＮＡＲＵＴＯ　-ナルト-　ナルティメットヒーロー２
+SLPS_255.89	Naruto: Narutimate Hero 3
+SLPS_732.51	Naruto: Narutimate Hero 3 / ＮＡＲＵＴＯ　－ナルト－　ナルティメットヒーロー３
+SLUS_214.98	Naruto: Uzumaki Chronicles
+SLES_547.27	Naruto: Uzumaki Chronicles
+SLUS_215.94	Naruto: Uzumaki Chronicles 2
+SLES_550.90	Naruto: Uzumaki Chronicles 2
+SLPS_255.42	Naruto: Uzumaki Ninden / ＮＡＲＵＴＯ　－ナルト－　うずまき忍伝
+SLUS_213.58	Naruto: Ultimate Ninja
+SLES_541.63	Naruto: Ultimate Ninja
+SLUS_215.75	Naruto: Ultimate Ninja 2
+SLES_548.78	Naruto: Ultimate Ninja 2
+SLUS_217.27	Naruto: Ultimate Ninja 3
+SLES_552.37	Naruto: Ultimate Ninja 3
+SLPS_257.68	Naruto Shippuden: Narutimate Accel / ＮＡＲＵＴＯ－ナルト－疾風伝　～ナルティメットアクセル～
+SLPS_258.37	Naruto Shippuden: Narutimate Accel 2 / ＮＡＲＵＴＯ－ナルト－疾風伝　～ナルティメットアクセル２～
+SLUS_218.62	Naruto Shippuden: Ultimate Ninja 4
+SLES_554.81	Naruto Shippuden: Ultimate Ninja 4
+SLES_556.05	Naruto Shippuden: Ultimate Ninja 5
+SLUS_202.66	NASCAR Thunder 2002
+SLUS_205.35	NASCAR Thunder 2003
+SLUS_208.24	NASCAR Thunder 2004
+SLUS_207.54	NASCAR Thunder 2004
+SLUS_210.03	NASCAR 2005: Chase for the Cup
+SCUS_973.48	NBA '06
+SCUS_975.44	NBA '07 featuring The Life Vol.2
+SCUS_975.89	NBA '08 featuring The Life Vol.3
+SLUS_201.87	NBA Street
+SLES_514.81	NBA Street Vol.2
+SLUS_214.93	Need for Speed: Carbon
+SLUS_214.94	Need for Speed: Carbon [Collector's Edition]
+SLES_544.02	Need for Speed: Carbon [Collector's Edition]
+SLES_544.92	Need for Speed: Carbon [Collector's Edition]
+SLES_543.21	Need for Speed: Carbon
+SLES_543.22	Need for Speed: Carbon
+SLES_543.23	Need for Speed: Carbon
+SLES_543.24	Need for Speed: Carbon
+SLES_544.93	Need for Speed: Carbon
+SLPM_666.17	Need for Speed: Carbon / ニード・フォー・スピード　カーボン
+SLUS_203.62	Need for Speed: Hot Pursuit 2
+SLUS_216.58	Need for Speed: ProStreet
+SLES_550.02	Need for Speed: ProStreet
+SLES_550.03	Need for Speed: ProStreet
+SLES_550.04	Need for Speed: ProStreet
+SLES_550.05	Need for Speed: ProStreet
+SLES_550.06	Need for Speed: ProStreet
+SLPM_669.32	Need for Speed: ProStreet
+SLUS_218.01	Need for Speed: Undercover
+SLES_553.49	Need for Speed: Undercover
+SLES_553.50	Need for Speed: Undercover
+SLES_553.51	Need for Speed: Undercover
+SLES_553.52	Need for Speed: Undercover
+SLES_553.53	Need for Speed: Undercover
+SLPM_551.27	Need for Speed: Undercover / ニード・フォー・スピード　アンダーカバー
+SLUS_210.65	Need for Speed: Underground 2
+SLES_527.25	Need for Speed: Underground 2
+SLPM_660.51	Need for Speed: Underground 2 / ニード・フォー・スピード　アンダーグラウンド２　車道
+SLPM_657.66	Need for Speed: Underground 2 / ニード・フォー・スピード　アンダーグラウンド２　車道
+SLUS_217.08	NeoGeo Battle Coliseum
+SLES_543.95	NeoGeo Battle Coliseum
+SLPS_255.58	NeoGeo Battle Coliseum
+SLPS_253.50	Netsu Chu! Pro Baseball 2004
+SCES_515.78	Network Access Disc [Original, v4.02 & v4.03]
+SLES_515.47	Next Generation Tennis 2003
+SLUS_201.40	NHL Hitz 2002 [v1.01 v2.00]
+SLES_504.51	NHL Hitz 2002
+SLUS_204.38	NHL Hitz 2003
+SLES_507.12	NHL Hitz 2003
+SLPS_251.01	Nichibeikan Pro Yakyuu: Final League
+SLES_534.98	Nickelodeon Bob Esponja: ¡Luces, Cámara, Esponja!
+SLES_534.95	Nickelodeon Bob L'éponge: Silence on Tourne!
+SLUS_219.44	Nickelodeon Dora's Big Birthday Adventure
+NPUD_219.44	Nickelodeon Dora's Big Birthday Adventure
+SLES_534.97	Nickelodeon SpongeBob Schwammkopf: Film ab!
+SLES_534.99	Nickelodeon SpongeBob Squarepants: Licht uit, Camera aan!
+SLES_535.00	Nickelodeon Svampbob Fyrkant: Tystnad, Tagning, Tvaettsvamp
+SLUS_208.10	Nightshade
+SLPM_662.74	Ninkyouden: Toseinin Ichidaiki
+SLES_505.92	No One Lives Forever
+SLUS_200.28	No One Lives Forever
+SLUS_215.77	Odin Sphere
+NPUD_215.77	Odin Sphere
+SCUS_971.29	Okage: Shadow King
+SCUS_973.40	Official U.S. PlayStation Magazine Demo Disc 087
+SCUS_973.41	Official U.S. PlayStation Magazine Demo Disc 088
+SCUS_973.42	Official U.S. PlayStation Magazine Demo Disc 089
+SCUS_974.42	Official U.S. PlayStation Magazine Demo Disc 090
+SLUS_211.15	Okami
+SLES_544.39	Okami
+SLPM_663.75	Okami
+SLPM_742.39	Okami [PlayStation 2 the Best]
+SCKA_200.95	Okami [English Version]
+SLUS_200.64	Oni
+SLES_501.34	Oni
+SLES_501.76	Oni
+SLES_501.77	Oni
+SLES_501.78	Oni
+SLES_501.79	Oni
+SLUS_211.80	Onimusha: Dawn of Dreams
+SLUS_213.62	Onimusha: Dawn of Dreams
+SLES_820.38	Onimusha: Dawn of Dreams
+SLES_820.39	Onimusha: Dawn of Dreams (Disc 2)
+SLUS_200.18	Onimusha: Warlords
+SLPM_675.18	Onimusha 2: Samurai's Destiny
+SLUS_203.93	Onimusha 2: Samurai's Destiny
+SLES_509.78	Onimusha 2: Samurai's Destiny
+SLPM_651.00	Onimusha 2
+SLUS_206.94	Onimusha 3: Demon Siege
+SLES_519.14	Onimusha 3: Demon Siege
+SLKA_250.93	Onimusha 3: Demon Siege
+SLPM_654.13	Onimusha 3
+SLPM_675.07	Onimusha Wsrlords
+SLPM_650.10	Onimusha
+SLPM_650.56	Orega Kantoku da Vol.2: Getitou Pennent Race
+SLUS_200.11	Orphen: Scion of Sorcery (This config just skips the FMVs that freeze the game. Sound bugs still exist)
+SLUS_213.00	Over the Hedge
+SLES_538.66	Over the Hedge
+SLES_539.89	Over the Hedge
+SLES_539.88	Over the Hedge
+SLES_539.87	Over the Hedge
+SLUS_212.19	Pac-Man World 3
+SLES_539.59	Pac-Man World 3
+SLES_534.44	Panzer Elite Action: Fields of Glory
+SCUS_971.67	PaRappa the Rapper 2
+SCES_504.08	PaRappa the Rapper 2
+SCPS_150.17	PaRappa the Rapper 2
+PCPX_963.20	PaRappa the Rapper 2
+SCPS_192.01	PaRappa the Rapper 2 [PlayStation 2 The Best]
+SLES_534.06	Party Girls
+SLUS_219.42	PES 2011: Pro Evolution Soccer
+SLES_556.36	PES 2011: Pro Evolution Soccer
+SLES_556.37	PES 2011: Pro Evolution Soccer
+SLES_556.38	PES 2011: Pro Evolution Soccer
+SLES_556.56	PES 2012: Pro Evolution Soccer
+SLES_556.57	PES 2012: Pro Evolution Soccer
+SLES_556.58	PES 2012: Pro Evolution Soccer
+NPJD_000.28	Phantasy Star Complete Collection
+SLUS_211.94	Phantasy Star Universe
+SLUS_211.95	Phantasy Star Universe
+SLES_543.08	Phantasy Star Universe
+SLPM_660.31	Phantasy Star Universe
+SLUS_216.31	Phantasy Star Universe: Ambition of the Illuminus
+SLES_548.92	Phantasy Star Universe: Ambition of the Illuminus
+SCPS_150.05	Phase Paradox
+SLUS_206.59	Piglet's Big Game
+SLES_516.67	Piglet's Big Game
+SLES_516.68	Piglet's Big Game
+SLUS_215.80	Pimp My Ride
+SLES_546.07	Pimp My Ride
+SLES_546.32	Pimp My Ride
+SLES_528.63	Pinball Hall of Fame: The Gottlieb Collection
+SCPS_110.14	Pipo Saru 2001
+SCPS_191.04	Pipo Saru 2001 [PlayStation 2 The Best]
+SCPS_191.53	Pipo Saru 2001 [PlayStation 2 The Best]
+SLPM_653.16	Pop'n Music 8
+SLPM_622.88	Pop'n Music Best Hits!
+SLES_518.64	Police Chase Down
+SLUS_200.03	Portal Runner
+SLES_502.63	Portal Runner
+SLES_504.44	Portal Runner
+SLUS_209.78	Power Drome
+SLUS_204.06	Pride FC: Fighting Championships
+SLES_513.71	Pride FC: Fighting Championships
+SLPM_651.67	Pride
+SCUS_971.42	Primal: Civilization Is Only Skin Deep
+NPUC_971.42	Primal: Civilization Is Only Skin Deep
+SCES_511.35	Primal
+SCES_516.85	Primal
+SLPS_200.13	Primal Image Vol.01
+SLUS_210.22	Prince of Persia: Warrior Within
+SLES_528.22	Prince of Persia: Warrior Within
+SLPM_660.22	Prince of Persia: Warrior Within
+SLKA_252.74	Princess Maker 4
+SLES_542.03	Pro Evolution Soccer 6
+SLES_542.04	Pro Evolution Soccer 6
+SLES_543.60	Pro Evolution Soccer 6
+SLES_543.61	Pro Evolution Soccer 6
+SLES_543.62	Pro Evolution Soccer 6
+SLUS_219.48	Pro Evolution Soccer 2012
+SLUS_210.37	Project: Snowblind
+SLUS_201.64	Project Eden
+SLES_505.53	Project Eden
+SCES_508.21	Project Zero
+SLES_523.84	Project Zero 2: Crimson Butterfly
+SLUS_206.88	Psi-Ops: The Mindgate Conspiracy
+SLES_527.02	Psi-Ops: The Mindgate Conspiracy
+SLES_527.03	Psi-Ops: The Mindgate Conspiracy
+SLPM_660.20	Psi-Ops: The Mindgate Conspiracy
+SLUS_211.20	Psychonauts
+NPUD_211.20	Psychonauts
+SLES_538.30	Psychonauts
+SLES_541.73	På andra sidan häcken
+SLUS_201.67	Quake III: Revolution
+SLES_501.26	Quake III: Revolution
+SLES_501.27	Quake III: Revolution
+SLPS_201.08	Quake III: Revolution / クエークⅢ　レボリューション
+SLUS_207.21	R-Racing Evolution
+SLUS_212.62	Radiata Stories
+SLPM_658.00	Radiata Stories / ラジアータ　ストーリーズ
+SLUS_203.61	Rally Fusion
+SLPS_202.46	Rally Shox
+SLPM_627.37	Rally Shox & Freestyle Motorcross [EA Best Hits]
+SLUS_219.34	Rapala Pro Bass Fishing
+SLUS_210.12	Rapala Pro Bass Fishing
+SLES_529.00	Rapala Pro Bass Fishing
+SLUS_213.71	Rapala Pro Tournament Fishing
+SCUS_971.99	Ratchet & Clank
+SCES_509.16	Ratchet & Clank
+SCPS_150.37	Ratchet & Clank
+SCPS_150.99	Ratchet & Clank: Giga Battle
+SCUS_972.68	Ratchet & Clank: Going Commando
+SCKA_200.11	Ratchet & Clank: Going Commando
+SCES_516.07	Ratchet & Clank 2: Locked & Loaded
+SCKA_200.37	Ratchet & Clank 2: Gagaga! Ginga no Commando-ssu [Big Hit Series]
+SCPS_150.56	Ratchet & Clank 2
+SCES_524.56	Ratchet & Clank 3
+SCPS_150.84	Ratchet & Clank 3
+SCUS_974.65	Ratchet: Deadlocked
+SCKA_200.60	Ratchet: Deadlocked
+SCES_532.85	Ratchet: Gladiator
+SCUS_973.53	Ratchet and Clank: Up Your Arsenal
+SLUS_215.01	Raw Danger!
+SLES_545.87	Raw Danger!
+NPJD_000.79	Raw Danger!
+SLUS_206.01	Rayman 3: Hoodlum Havoc
+SLES_512.22	Rayman 3: Hoodlum Havoc
+SLKA_250.78	Rayman 3: Hoodlum Havoc
+SLUS_202.72	Rayman Arena
+NPUD_202.72	Rayman Arena
+SLES_504.57	Rayman M
+SLUS_200.32	Real Pool
+SLPM_661.43	Rebirth Moon / リバース ムーン
+SLPM_665.65	REC: DokiDoki Seiyuu Paradise / レック☆ドキドキ声優パラダイス☆
+SLUS_205.00	Red Dead Revolver
+SLUS_204.42	Red Faction II
+NPUD_204.42	Red Faction II
+SLES_511.33	Red Faction II
+SLUS_290.27	Red Faction II [Demo]
+SLPS_250.94	Reveal Fantasia: Mariel to Yousei Monogatari
+SLPS_715.02	Ridge Racer V
+SLUS_200.02	Ridge Racer V
+SLES_500.00	Ridge Racer V
+SLPM_601.09	Ridge Racer V
+SLPS_200.01	Ridge Racer V
+SCPS_110.12	Rimoko Koron
+SLUS_204.45	Robot Alchemic Drive
+SLES_527.61	Rocky: Legends
+SLUS_208.90	Rocky: Legends
+SLPM_624.91	RockMan: Power Battle Fighters / ロックマン　～パワーバトルファイターズ～
+SLPM_657.30	Rockman X8 / Mega Man X8 / ロックマンX8
+SCUS_974.90	Rogue Galaxy
+SCES_545.52	Rogue Galaxy
+SCPS_170.13	Rogue Galaxy: Director's Cut
+SLUS_207.46	Rogue Ops
+SLES_520.02	Rogue Ops
+SLPM_655.34	Rogue Ops
+SLUS_201.74	Rumble Racing
+SLES_501.20	Rumble Racing
+SLUS_200.37	Run Like Hell: Hunt or Be Hunted
+SLPM_656.03	Run Like Hell
+SLES_513.45	Run Like Hell
+SLUS_204.71	Rygar: The Legendary Adventure
+NPUD_204.71	Rygar: The Legendary Adventure
+SLES_514.45	Rygar: The Legendary Adventure
+SLPM_661.68	Ryu ga Gotoku / 龍が如く
+SLUS_203.78	Salt Lake 2002
+SLPS_250.89	Salt Lake 2002
+SLPS_201.78	Samurai
+SLPM_664.00	Samurai 7
+SLPM_653.80	Samurai-dou 2: Way of the Samurai 2 / 侍道２　～ＷＡＹ　ＯＦ　ＴＨＥ　ＳＡＭＵＲＡＩ　２～
+SLUS_208.99	Samurai Jack: The Shadow of Aku
+SLES_524.79	Samurai Jack: The Shadow of Aku
+SLUS_208.78	Samurai Warriors
+SLES_525.51	Samurai Warriors
+SLES_525.52	Samurai Warriors
+SLES_525.54	Samurai Warriors
+SLES_525.55	Samurai Warriors
+SLUS_214.62	Samurai Warriors 2
+SLES_543.40	Samurai Warriors 2
+SLUS_204.30	Savage Skies
+SCPS_150.01	Scandal
+SLUS_211.11	Scarface: The World is Yours
+SLES_541.82	Scarface: The World is Yours
+SLES_541.83	Scarface: The World is Yours
+SLES_541.84	Scarface: The World is Yours
+SLES_542.71	Scarface: The World is Yours
+SLES_545.34	Scarface: The World is Yours
+SLUS_219.28	Scooby-Doo! and the Spooky Swamp
+SLES_556.09	Scooby-Doo! and the Spooky Swamp
+SLUS_219.00	Scooby-Doo! First Frights
+SLES_554.76	Scooby-Doo! First Frights
+SLUS_207.01	Scooby-Doo! Mystery Mayhem
+SLES_518.83	Scooby-Doo! Mystery Mayhem
+SLUS_218.50	SCORE International Baja 1000: The Official Game
+SLES_552.95	SCORE International Baja 1000: World Championship Off Road Racing
+SCUS_976.23	Secret Agent Clank
+SCES_554.96	Secret Agent Clank
+SLPM_623.62	Sega Ages 2500 Series Vol.01: Phantasy Star Generation 1
+SLPM_626.66	Sega Ages 2500 Series Vol.01: Phantasy Star Generation 1
+SLPM_623.67	Sega Ages 2500 Series Vol.01: Phantasy Star [Limited Edition]
+SLPM_624.52	Sega Ages 2500 Series Vol.01: Phantasy Star Generation 1
+SLPM_625.53	Sega Ages 2500 Series Vol.17: Phantasy Star Generation 2
+SLPM_657.78	Sega Ages 2500 Series Vol.18: Dragon Force
+SLPM_627.12	Sega Ages 2500 Series Vol.25: Gunstar Heroes Treasure Box
+SLPM_627.66	Sega Ages 2500 Series Vol.30: Galaxy Force 2
+SLPM_627.75	Sega Ages 2500 Series Vol.32: Phantasy Star Complete Collection
+SLPM_627.80	Sega Ages 2500 Series Vol.33: Fantasy Zone Complete Collection
+SLUS_205.09	Sega Soccer Slam
+SLES_511.25	Sega Soccer Slam
+SLUS_217.33	Sega Superstars Tennis
+SCKA_201.01	Seiken Densetsu 4
+SLPM_476.42	Seiken Densetsu 4
+SLPM_665.76	Seiken Densetsu 4
+SLPM_668.48	Sengoku Basara 2 Heroes
+SLPM_655.17	Sengoku Musou
+SLUS_203.47	Shadow Hearts
+SLPS_250.41	Shadow Hearts
+SLUS_210.41	Shadow Hearts: Covenant [Disc 1of2]
+SLUS_210.44	Shadow Hearts: Covenant [Disc 2of2]
+SLES_820.30	Shadow Hearts: Covenant [Disc 1of2]
+SLES_820.31	Shadow Hearts: Covenant [Disc 2of2]
+SLUS_213.26	Shadow Hearts: From the New World
+SLPS_732.14	Shadow Hearts II: Director's Cut [Disc 1of2] / シャドウ　ハーツ２　ディレクターズカット
+SLPS_732.15	Shadow Hearts II: Director's Cut [Disc 2of2] / シャドウ　ハーツ２　ディレクターズカット
+SLUS_204.13	Shadow Man: 2econd Coming
+SLES_504.46	Shadow Man: 2econd Coming
+SLES_506.08	Shadow Man: 2econd Coming
+SLUS_201.46	Shadow of Destiny
+SLUS_209.02	Shadow of Rome
+SLES_529.50	Shadow of Rome
+SLPM_658.83	Shadow of Rome / シャドウ・オブ・ローマ
+SCUS_974.72	Shadow of the Colossus
+SCES_533.26	Shadow of the Colossus
+SLUS_217.98	Shepherd's Crossing
+SLES_534.00	Shogun's Blade
+SLUS_214.31	Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs. The Soulless Army
+SLUS_218.45	Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon
+SLUS_209.74	Shin Megami Tensei: Digital Devil Saga
+NPUD_209.74	Shin Megami Tensei: Digital Devil Saga 1
+SLUS_211.52	Shin Megami Tensei: Digital Devil Saga 2
+SLES_533.63	Shin Megami Tensei: Lucifer's Call
+SLUS_209.11	Shin Megami Tensei: Nocturne
+NPUD_209.11	Shin Megami Tensei: Nocturne
+SLUS_216.21	Shin Megami Tensei: Persona 3 FES
+NPUD_216.21	Shin Megami Tensei: Persona 3 FES
+SLUS_217.82	Shin Megami Tensei: Persona 4
+NPUD_217.82	Shin Megami Tensei: Persona 4
+SLPM_669.78	Shin Megami Tensei: Persona 4
+SLES_534.58	Shin Megami Tensei: Digital Devil Saga
+SLUS_280.45	Shin Megami Tensei: Nocturne [Trade Demo]
+SCKA_200.86	Shin Onimusha: Dawn of Dreams [Disc 1of2]
+SCKA_200.87	Shin Onimusha: Dawn of Dreams [Disc 2of2]
+SLPM_662.75	Shin Onimusha: Dawn of Dreams [Disc 1of2]
+SLPM_662.76	Shin Onimusha: Dawn of Dreams [Disc 2of2]
+SLPM_742.51	Shin Onimusha: Dawn of Dreams [Disc 1of2][PlayStation 2 the Best: Reprint]
+SLPM_742.52	Shin Onimusha: Dawn of Dreams [Disc 2of2][PlayStation 2 the Best: Reprint]
+SLPM_742.32	Shin Onimusha: Dawn of Dreams [Disc 1of2][PlayStation 2 The Best]
+SLPM_742.33	Shin Onimusha: Dawn of Dreams [Disc 2of2][PlayStation 2 The Best]
+SLPM_620.05	Shin Sangoku Musou
+SLPM_621.62	Shin Sangoku Musou (Ch)
+SCCS_400.06	Shin Sangoku Musou 2 / 真・三國無双２
+SLPM_650.53	Shin Sangoku Musou 2 / 真・三國無双２
+SLPM_651.70	Shin Sangoku Musou 2: Mushouden / 真・三國無双２　猛将伝
+SLPM_623.31	Shin Sangoku Musou 2 & Moushouden Saikyou Data
+SLPM_652.63	Shin Sangoku Musou 2 & Shin Sangoku Musou 2 Mushouden [Koei Mega Pack] [Disc 1of2]
+SLPM_652.64	Shin Sangoku Musou 2 & Shin Sangoku Musou 2 Mushouden [Koei Mega Pack] [Disc 2of2]
+SLPM_660.96	Shin Sangoku Musou 2: Mushouden [Koei Selection Series]
+SLPM_657.20	Shin Sangoku Musou 2: Mushouden [Koei the Best]
+SLPM_660.94	Shin Sangoku Musou 2 [Koei Selection Series]
+SLPM_665.05	Shin Sangoku Musou 2 [Mega Hits]
+SLPM_651.71	Shin Sangoku Musou 2+2 Mushouden [PREMIUM PACK] [2 DISCS]
+SLPM_742.19	Shin Sangoku Musou 3: Empires [PlayStation 2 The Best]
+SLPM_655.64	Shin Sangoku Musou 3: Empires
+SLPM_655.65	Shin Sangoku Musou 3: Empires
+SLAJ_250.40	Shin Sangoku Musou 3: Empires
+SLAJ_250.23	Shin Sangoku Musou 3: Mushouden
+SLPM_742.16	Shin Sangoku Musou 3: Mushouden [PLaystation 2 The Best]
+SLPM_653.75	Shin Sangoku Musou 3: Mushouden [Premium Pack]
+SLPM_653.77	Shin Sangoku Musou 3: Mushouden
+SLPM_665.22	Shin Sangoku Musou 3 [KOEI Selection]
+SLPM_742.15	Shin Sangoku Musou 3 [PlayStation 2 The Best]
+SLPM_655.61	Shin Sangoku Musou 3 [Super Premium Pack]
+SLPM_652.51	Shin Sangoku Musou 3 [Treasure Box]
+SLPM_624.98	Shin Sangoku Musou 3 Empires & Mushouden Premium Box
+SLPM_666.58	Shin Sangoku Musou 3 Empires [Koei Selection]
+KOEI_000.09	Shin Sangoku Musou 3 Empires [Super Premium Box]
+KOEI_000.08	Shin Sangoku Musou 3 Empires [with Mushouden Premium Box]
+SLPM_666.57	Shin Sangoku Musou 3 Mushoden [Koei Selection]
+SLPM_742.17	Shin Sangoku Musou 3 / 真・三國無双３
+SLAJ_250.11	Shin Sangoku Musou 3 / 真・三國無双３
+SLPM_652.48	Shin Sangoku Musou 3 / 真・三國無双３
+SLPM_658.90	Shin Sangoku Musou 4 / 真・三國無双４
+SLPM_653.40	Shinseiki Evangelion: Ayanami Ikusai Keikaku with Asuka Hokan Keikaku
+SLPM_660.97	Shinseiki Evangelion: Ayanami Ikusai Keikaku with Asuka Hokan Keikaku [Broccoli Best Quality]
+SLPM_653.34	Shinseiki Evangelion: Ayanami Ikusei Keikaku with Asuka Hokan Keikaku
+SLUS_217.31	Silent Hill: Origins
+SLKA_254.22	Silent Hill: Origins
+SLUS_202.28	Silent Hill 2
+SLES_503.82	Silent Hill 2
+SLES_511.56	Silent Hill 2 Director's Cut
+SLUS_206.22	Silent Hill 3
+SLES_514.34	Silent Hill 3
+SLPM_652.57	Silent Hill 3
+SLUS_208.73	Silent Hill 4: The Room
+SLES_524.45	Silent Hill 4: The Room
+SLES_551.47	Silent Hill Origins
+SLKA_250.41	Silent Line: Armored Core
+SLUS_202.43	Silent Scope 2: Dark Silhouette
+SLPM_622.96	Simple 2000 Series Ultimate Vol. 6: Love*Upper!
+SLKA_150.28	Simple 2000 Series Ultimate Vol. 6: Love*Upper!
+SLPM_623.99	Simple 2000 Series Ultimate Vol. 13: Kyousou! Tansha King
+SLPM_653.29	Simple 2000 Series Ultimate Vol. 24: Makai Tenshou
+SLPM_658.72	Simple 2000 Series Ultimate Vol. 24: Makai Tenshou
+SLKA_150.30	Simple 2000 Series Vol. 5: The Block Kuzushi Hyper
+SLPM_621.71	Simple 2000 Series Vol. 5: The Block Kuzushi Hyper
+SLPM_621.97	Simple 2000 Series Vol. 7: The Boxing: Real First Fighter
+SLPM_623.44	Simple 2000 Series Vol. 31: The Chikyuu Boueigun
+SLPM_624.77	Simple 2000 Series Vol. 47: The Kassen Gekigahara
+SLPM_624.84	Simple 2000 Series Vol. 50: The Daibijin
+SLPM_624.97	Simple 2000 Series Vol. 51: The Senkan
+SLPM_624.93	Simple 2000 Series Vol. 54: The Daikaijuu
+SLKA_150.41	Simple 2000 Series Vol. 55: The Catfight: Joneko Densetsu
+SLPM_624.94	Simple 2000 Series Vol. 55: The Catfight: Joneko Densetsu
+SLKA_150.42	Simple 2000 Series Vol. 63: The Suieitaikai
+SLPM_625.34	Simple 2000 Series Vol. 63: The Suieitaikai
+SLPM_625.64	Simple 2000 Series Vol. 68: The Tousou Highway: Nagoya-Tokyo
+SLPM_626.52	Simple 2000 Series Vol. 81: The Chikyuu Boueigun 2
+SLPS_204.80	Simple 2000 Series Vol. 110: The Toubou Prisoner
+SLPS_204.89	Simple 2000 Series Vol. 114: The Onna Okappichi Torimonochou: Oharuchan Go Go Go!
+SLPM_623.14	Simple 2000 Ultimate Vol. 7: Saikyou! Shiro Biking: Security Police
+SLPS_204.52	Simple 2000 Ultimate Vol. 30: Kourin! Zokushi God
+SCES_525.65	SingStar
+SCES_522.68	SingStar
+SCES_522.99	SingStar
+SCES_525.66	SingStar
+SCUS_976.16	SingStar 80's
+SCUS_976.26	SingStar 90's
+SCES_554.35	SingStar ABBA
+SCUS_976.11	SingStar Amped [with Microphone]
+SCUS_975.80	SingStar Pop [with Microphone]
+SCUS_976.27	Singstar Pop Volume 2
+SCUS_975.71	SingStar Rocks! [with Microphone]
+SCUS_973.55	Siren
+NPUC_973.55	Siren
+SCPS_150.53	Siren
+SCAJ_200.46	Siren
+SCAJ_300.03	Siren
+SCKA_200.19	Siren
+SCPS_193.05	Siren [PlayStation 2 The Best]
+SCPS_193.12	Siren [PlayStation 2 The Best]
+PAPX_905.11	Siren: Trial Disc
+SCPS_151.06	Siren 2
+SLES_518.00	Smash Cars Racing
+SLUS_206.20	Smash Cars
+SLUS_212.31	Sniper Elite
+SLES_530.65	SNK vs. Capcom: SVC Chaos
+SLPS_253.16	SNK vs. Capcom: SVC Chaos
+SLPM_654.31	Sonic Heroes
+SLES_535.60	Sonic Riders
+SCUS_971.34	SOCOM: U.S. Navy SEALs
+SCUS_972.30	SOCOM: U.S. Navy SEALs
+SCUS_972.05	SOCOM: U.S. Navy SEALs [Demo]
+SCES_509.28	SOCOM: U.S. Navy SEALs
+SCES_516.18	SOCOM: U.S. Navy SEALs
+SCED_516.92	SOCOM: U.S. Navy SEALs
+SCPS_150.44	SOCOM: U.S. Navy SEALs
+SCKA_240.08	SOCOM: U.S. Navy SEALs
+SCUS_972.75	SOCOM II: U.S. Navy SEALs
+SCES_519.04	SOCOM II: U.S. Navy SEALs
+SCES_523.06	SOCOM II: U.S. Navy SEALs
+SCPS_150.65	SOCOM II: U.S. Navy SEALs
+SCKA_200.20	SOCOM II: U.S. Navy SEALs
+TCES_519.04	SOCOM II: U.S. Navy SEALs [Beta]
+SCKA_200.53	SOCOM II: U.S. Navy SEALs [BigHits Series]
+SCUS_973.68	SOCOM II: U.S. Navy SEALs [Demo]
+SCUS_975.11	SOCOM II: U.S. Navy SEALs [Greatest Hits]
+SCUS_973.66	SOCOM II: U.S. Navy SEALs [Public Beta v1.0]
+SCUS_974.74	SOCOM 3: U.S. Navy SEALs
+SCUS_974.75	SOCOM 3: U.S. Navy SEALs [Demo]
+SCUS_974.89	SOCOM 3: U.S. Navy SEALs [Public Beta v.1]
+SCKA_200.64	SOCOM 3: U.S. Navy SEALs
+SCES_533.00	SOCOM 3: U.S. Navy SEALs
+SCUS_975.45	SOCOM: U.S. Navy SEALs: Combined Assault
+SCUS_975.60	SOCOM: U.S. Navy SEALs: Combined Assault [Demo]
+SCES_544.77	SOCOM: U.S. Navy SEALs: Combined Assault
+SLUS_200.84	Soldier of Fortune: Gold Edition
+SLES_507.39	Soldier of Fortune: Gold Edition
+SLKA_253.58	Sonic Riders
+SLPM_662.81	Sonic Riders
+SLUS_213.31	Sonic Riders
+SLES_513.01	SOS: The Final Escape
+SLUS_206.43	Soul Calibur II
+SLES_517.99	Soul Calibur II
+SLPS_252.30	Soul Calibur II / ソウルキャリバーⅡ
+SLUS_212.16	Soul Calibur III
+SCES_533.12	Soul Calibur III (ALT)
+SLPS_255.77	Soul Calibur III / ソウルキャリバーⅢ
+SLUS_201.65	Soul Reaver 2: Legacy of Kain
+SLES_501.96	Soul Reaver 2: Legacy of Kain
+SRPM_702.01	Space Venus starring Morning Musume / スペースヴィーナス　ｓｔａｒｒｉｎｇ　モーニング娘。
+SLUS_212.12	Spartan: Total Warrior
+SLES_533.93	Spartan: Total Warrior
+SLES_533.96	Spartan: Total Warrior
+SLUS_205.84	Speed Kings
+SLES_508.48	Speed Kings
+SLUS_203.36	Spider-Man
+SLES_508.12	Spider-Man
+SLES_508.13	Spider-Man
+SLES_508.14	Spider-Man
+SLES_509.65	Spider-Man
+SLPM_652.05	Spider-Man / スパイダーマン
+SLES_529.06	Spongebob and Friends: Movin'
+SLUS_212.52	SpongeBob Squarepants: Lights, Camera, PANTS!
+SLES_534.96	Spongebob Squarepants: Lights, Camera, PANTS!
+SLES_534.94	Spongebob Squarepants: Lights, Camera, PANTS!
+SLKA_253.19	SpongeBob SquarePants: Lights, Camera, PANTS!
+SLES_512.85	Spongebob Squarepants: Revenge of the Flying Dutchman
+SLUS_204.25	Spongebob Squarepants: Revenge of the Flying Dutchman
+SLUS_206.80	SpongeBob SquarePants: The Battle for Bikini Bottoms
+SLUS_214.18	Sprint Cars: Road to Knoxville
+SLES_544.63	Sprint Cars: Road to Knoxville
+SLUS_216.01	Sprint Cars 2: Showdown at Eldora
+SLUS_208.56	Spy Fiction
+SLES_525.05	Spy Fiction
+SLPS_253.11	Spy Fiction
+SLKA_250.07	Spy Fiction
+SLUS_203.15	Spyro: Enter the Dragonfly
+SLES_510.43	Spyro: Enter the Dragonfly
+SLUS_200.95	SSX
+SLES_500.30	SSX
+SLUS_207.72	SSX 3
+SLES_516.97	SSX 3
+SLES_535.51	SSX On Tour
+SLES_535.52	SSX On Tour
+SLUS_203.26	SSX Tricky
+SLES_505.45	SSX Tricky
+SLPS_250.78	SSX Tricky
+SLUS_204.88	Star Ocean 3: Till the End of Time [Disc1of2]
+SLUS_208.91	Star Ocean 3: Till the End of Time [Disc2of2]
+SLES_820.28	Star Ocean 3: Till the End of Time [Disc1of2] (ALT)
+SLES_820.29	Star Ocean 3: Till the End of Time [Disc2of2] (ALT)
+SLPM_654.38	Star Ocean 3: Till the End of Time [Director's Cut] [Disc1of2]
+SLPM_664.79	Star Ocean 3: Till the End of Time [Director's Cut] [Disc2of2]
+SLPM_652.09	Star Ocean 3: Till the End of Time [Limited Edition]
+SLUS_208.98	Star Wars: Battlefront
+SLES_525.45	Star Wars: Battlefront
+SLES_525.46	Star Wars: Battlefront
+SLES_525.47	Star Wars: Battlefront
+SLUS_212.40	Star Wars: Battlefront II
+SLES_535.01	Star Wars: Battlefront II
+SLES_535.02	Star Wars: Battlefront II
+SLES_535.03	Star Wars: Battlefront II
+SLPM_661.90	Star Wars: Battlefront II
+SLUS_205.10	Star Wars: Clone Wars
+SLES_508.26	Star Wars: Clone Wars
+SLES_508.27	Star Wars: Clone Wars
+SLES_508.28	Star Wars: Clone Wars
+SLES_508.30	Star Wars: Clone Wars
+SLUS_219.13	Star Wars: Clone Wars: Republic Heroes
+SLES_503.71	Star Wars: Jedi Starfighter
+SLUS_216.14	Star Wars: The Force Unleashed
+SLES_546.58	Star Wars: The Force Unleashed
+SLPS_258.88	Star Wars: The Force Unleashed
+SLPM_664.85	State of Emergency: Revenge
+SLUS_209.66	State of Emergency 2
+SLES_540.89	State of Emergency 2
+SLES_540.92	State of Emergency 2
+SLUS_213.44	Steambot Chronicles
+SLUS_214.97	Strawberry Shortcake: Adventures in the Land of Dreams
+SLES_543.09	Strawberry Shortcake: The Sweet Dreams Game
+SLES_543.31	Street Dance
+SLUS_213.17	Street Fighter Alpha Anthology
+SLUS_201.30	Street Fighter EX3
+SLES_500.72	Street Fighter EX3
+SLPS_200.03	Street Fighter EX3
+SLPS_200.17	Street Mahjong Trance: Majin 2
+SLUS_205.82	Street Racing Syndicate (ALT)
+SLES_530.45	Street Racing Syndicate
+SLUS_213.41	Stuart Little 3: Big Photo Adventure
+SLES_534.22	Stuart Little 3: Big Photo Adventure
+SLPM_551.47	Suggoi! Arcana Heart 2
+SLUS_203.87	Suikoden III
+SLPM_650.74	Suikoden III
+SLUS_200.74	Summoner
+SLES_820.01	Summoner
+SLES_820.03	Summoner
+SLES_820.05	Summoner
+NPED_002.72	Summoner
+SLUS_204.48	Summoner 2
+SLUS_290.29	Summoner 2 [Demo]
+SLES_511.41	Summoner 2
+SLES_511.42	Summoner 2
+SLES_511.43	Summoner 2
+SLES_512.75	Summoner 2
+SLPM_659.82	SuperLite 2000 Vol. 41: Tokyo Bus Guide 2
+SCAJ_201.48	SuperLite 2000 Vol. 41: Tokyo Bus Guide 2
+SLUS_212.72	Super Monkey Ball Adventure
+SLES_537.01	Super Monkey Ball Adventure
+SCCS_400.10	Super Puzzle Bobble 2
+SLPM_624.71	SuperLite 2000 Vol. 16: UNO Game
+SLUS_214.34	Superman Returns: The Video Game
+SLES_537.46	Superman Returns
+SLES_543.48	Superman Returns
+SLES_543.49	Superman Returns
+SLES_543.50	Superman Returns
+SLES_543.51	Superman Returns
+SLKA_253.67	Superman Returns
+SLUS_204.33	SWAT: Global Strike Team
+SLES_519.97	SWAT: Global Strike Team
+SCUS_973.62	Syphon Filter: Dark Mirror
+SCUS_976.20	Syphon Filter: Dark Mirror
+SCES_547.94	Syphon Filter: Dark Mirror
+SCUS_975.84	Syphon Filter: Logan's Shadow
+SCUS_972.64	Syphon Filter: The Omega Strain
+NPUC_972.64	Syphon Filter: The Omega Strain
+SCES_520.33	Syphon Filter: The Omega Strain
+SCKA_200.32	Syphon Filter: The Omega Virus
+SLKA_251.23	Taisho Mononoke Ibunroku
+SLPM_652.28	Taisho Mononoke Ibunroku
+SLUS_205.19	Tak and The Power of Juju
+SLUS_290.67	Tak and The Power of JuJu [Demo]
+SLES_521.04	Tak and The Power of JuJu
+SLES_522.86	Tak and The Power of JuJu
+SLES_522.87	Tak and The Power of JuJu
+SLES_520.11	Tak and The Power of Juju
+SLPS_258.42	Tales of Destiny [Director's Cut]
+SLPS_257.15	Tales of Destiny
+SLUS_212.01	Tales of Legendia
+SLPS_255.33	Tales of Legendia
+SLUS_213.86	Tales of the Abyss
+SLPS_255.86	Tales of the Abyss
+SLPM_651.73	Tantei Jinguuji Saburo: Innocent Black
+SLKA_250.71	Tantei Jinguuji Saburo: Innocent Black
+SLPM_655.76	Tantei Jinguuji Saburo: Kind of Blue
+SLES_534.02	Taxi Rider
+SLES_507.78	TD Overdrive: The Brotherhood of Speed
+SLPS_254.97	Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174
+SLUS_203.28	Tekken 4
+SCES_508.78	Tekken 4
+SLPS_251.00	Tekken 4
+SLUS_290.34	Tekken 4 [Demo]
+SLPS_734.14	Tekken 4 [PlayStation 2 the Best]
+SLPS_732.09	Tekken 4 [PlayStation 2 The Best]
+SLUS_280.12	Tekken 4 [Trade Demo]
+SCPS_560.06	Tekken 4
+SCED_511.20	Tekken 4
+SCPS_550.17	Tekken 4
+SLUS_211.60	Tekken 5 [Demo]
+SLUS_210.59	Tekken 5
+SLPS_255.10	Tekken 5
+SLUS_200.01	Tekken Tag Tournament
+SCES_500.01	Tekken Tag Tournament
+SCED_500.41	Tekken Tag Tournament [Demo]
+SCPS_560.02	Tekken Tag Tournament
+SLPS_200.15	Tekken Tag Tournament
+SLPS_715.01	Tekken Tag Tournament [Mega Hits!]
+SLPS_731.04	Tekken Tag Tournament [PlayStation 2 The Best]
+SLUS_203.97	Tenchu: Wrath of Heaven
+SLES_506.79	Tenchu: Wrath of Heaven
+SLPS_252.34	Tenchu 3 / 天誅　参
+SLPS_734.21	Tenchu 3 / 天誅　参 [PlayStation 2 The Best]
+SCAJ_200.27	Tenchu 3 / 天誅　参
+SLPS_200.66	Tenshi no Present: Marl Okoku Monogatari
+SLUS_202.13	Test Drive
+SLUS_201.70	The Adventures of Cookie & Cream
+SLUS_208.87	The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies
+SLES_527.00	The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies
+SLUS_208.03	The Bard's Tale
+SLES_528.94	The Bard's Tale
+SLES_531.54	The Bard's Tale
+SLUS_200.69	The Bouncer
+SCES_502.41	The Bouncer
+SLPS_250.23	The Bouncer
+SLUS_214.49	The Fast and the Furious
+SLES_544.83	The Fast and the Furious
+SCKA_200.18	The Getaway 겟어웨이
+SCUS_974.08	The Getaway: Black Monday
+SCES_527.58	The Getaway: Black Monday
+SCES_529.48	The Getaway: Black Monday
+SLPM_661.83	The Getaway: Black Monday
+SLES_502.76	The Gift
+SLES_502.96	The Gift
+SLES_502.97	The Gift
+SLES_502.98	The Gift
+SLES_502.99	The Gift
+SLPS_254.49	The King of Fighters '94 Re-Bout
+SLPS_252.66	The King of Fighters 2001
+SLPS_254.58	The King of Fighters 2001 [SNK Best Collection]
+SCAJ_200.40	The King of Fighters 2001
+SLKA_251.12	The King of Fighters 2001
+SLES_533.82	The King of Fighters 2003
+SLPS_254.07	The King of Fighters 2003
+SLPS_256.35	The King of Fighters 2003
+SLUS_207.84	The Italian Job
+SLES_517.61	The Italian Job
+SLUS_213.72	The Legend of Spyro: A New Beginning
+SLES_543.59	The Legend of Spyro: A New Beginning
+SLUS_216.07	The Legend of Spyro: The Eternal Night
+SLES_548.15	The Legend of Spyro: The Eternal Night
+SLES_520.18	The Lord of the Rings: Return of the King (Der Herr der Ringe, Die Ruckkehr des Konigs)
+SLES_520.19	The Lord of the Rings: Return of the King
+SLES_520.17	The Lord of the Rings: Return of the King
+SLES_509.88	The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefahrten)
+SLUS_205.20	The Lord of the Rings: The Fellowship of the Ring
+SLUS_207.70	The Lord of the Rings: The Return of the King
+SLES_520.21	The Lord of the Rings: The Return of the King
+SLES_520.20	The Lord of the Rings: The Return of the King
+SLUS_210.27	The Lord of the Rings: The Third Age
+SLES_528.01	The Lord of the Rings: The Third Age
+SLES_528.02	The Lord of the Rings: The Third Age
+SLES_528.04	The Lord of the Rings: The Third Age
+SLES_528.05	The Lord of the Rings: The Third Age
+SLES_528.03	The Lord of the Rings: The Third Age (Der Herr der Ringe: Das dritte Zeitalter)
+SLES_512.54	The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die Zwei Turme)
+SLES_512.56	The Lord of the Rings: The Two Towers (El Señor de Los Anillos: Las Dos Torres)
+SLES_512.53	The Lord of the Rings: The Two Towers (Seigneur des Anneaux: Les Deux Tours)
+SLPS_290.03	The Lord of the Rings: The Two Towers [Collector's Box]
+SLUS_205.78	The Lord of the Rings: The Two Towers
+SLES_512.52	The Lord of the Rings: The Two Towers
+SLPS_290.04	The Lord of the Rings: The Two Towers
+SLPM_675.46	The Lord of the Rings: The Two Towers
+SLES_512.55	The Lord of the Rings: The Two Towers
+SLUS_212.73	The Matrix: Path of Neo
+SLES_537.59	The Matrix: Path of Neo
+SLES_537.99	The Matrix: Path of Neo
+SLES_534.62	The Matrix: Path of Neo
+SLPM_659.19	The Rumble Fish
+SLES_506.62	The Shadow of Zorro
+SLUS_206.24	The Simpsons: Hit & Run
+SLES_518.97	The Simpsons: Hit & Run
+SLUS_212.65	The Sims 2
+SLUS_215.36	The Sims 2: Pets
+SLES_549.03	The Sims 2: Castaway
+SLUS_216.64	The Sims 2: Castaway
+SLES_520.47	The Sims: Bustin' Out
+SLES_520.48	The Sims: Bustin' Out
+SLKA_251.37	The Sims: Bustin' Out
+SLPM_654.79	The Sims: Bustin' Out
+SLUS_208.42	The Sims: Bustin' Out
+SLUS_206.36	The Suffering
+SLES_516.93	The Suffering
+SLES_524.39	The Suffering
+SLES_525.31	The Suffering
+SLUS_211.89	The Suffering: Ties That Bind
+SLES_535.26	The Suffering: Ties That Bind
+SLES_535.27	The Suffering: Ties That Bind
+SLES_535.28	The Suffering: Ties That Bind
+SLES_536.26	The Suffering: Ties That Bind
+SLED_524.88	The Suffering: Ties That Bind
+SLAJ-250.52	The Urbz: Sims in the City
+SLES_529.08	The Urbz: Sims in the City
+SLKA_250.99	The Urbz: Sims in the City
+SLPM_658.07	The Urbz: Sims in the City
+SLUS_210.66	The Urbz: Sims in the City
+SLUS_200.99	Theme Park Roller Coaster
+SLUS_216.11	Thrillville: Off the Rails
+SLES_548.06	Thrillville: Off the Rails
+SLES_518.52	Thug MOTX [Demo]
+SLES_542.53	Tiger Woods PGA Tour '07
+SLUS_214.83	Tiger Woods PGA Tour '07
+SLPM_666.74	Tiger Woods PGA Tour '07
+SLUS_201.04	Tiger Woods PGA Tour 2001
+SLES_501.18	Tiger Woods PGA Tour 2001
+SLPS_200.92	Tiger Woods PGA Tour 2001
+SLUS_203.64	Tiger Woods PGA Tour 2002
+SLUS_207.57	Tiger Woods PGA Tour 2004
+SLUS_210.02	Tiger Woods PGA Tour 2005
+SLUS_200.90	TimeSplitters
+SLES_500.78	TimeSplitters
+SCAJ_200.14	TimeSplitters
+SLPS_252.07	TimeSplitters: Jikuu no Shinryakusha
+SLUS_203.14	TimeSplitters 2
+SLES_508.77	TimeSplitters 2
+SLUS_211.48	TimeSplitters: Future Perfect
+SLES_529.93	TimeSplitters: Future Perfect
+SLES_527.11	Titeuf : Méga-Compet'
+SLPS_254.14	To Heart 2
+SLUS_211.82	TOCA Race Driver 3
+SLES_530.87	TOCA Race Driver 3
+SLPM_650.32	Tokyo Bus Annai: Kyou kara Kimi mo Untenshu
+SLUS_208.31	Tokyo Xtreme Racer 3
+SLUS_213.94	Tokyo Xtreme Racer DRIFT 2 / TXR Drift 2
+SLUS_203.55	Tom and Jerry in War of the Whiskers
+SLES_510.53	Tom and Jerry in War of the Whiskers
+SLPM_624.49	Tom and Jerry in War of the Whiskers / トムとジェリー　～ヒゲヒゲだいせんそう～
+SLUS_206.13	Tom Clancy's Ghost Recon
+SLES_511.81	Tom Clancy's Ghost Recon
+SLES_511.82	Tom Clancy's Ghost Recon
+SLPM_652.44	Tom Clancy's Ghost Recon
+SLUS_206.52	Tom Clancy's Splinter Cell
+SLES_514.66	Tom Clancy's Splinter Cell
+SLED_514.72	Tom Clancy's Splinter Cell
+SLPM_654.22	Tom Clancy's Splinter Cell
+SLES_546.74	Tomb Raider: Anniversary
+SLES_518.54	Tony Hawk Underground
+SLUS_212.95	Tony Hawk's American Wasteland [Collector's Edition]
+SLUS_212.08	Tony Hawk's American Wasteland
+SLES_535.35	Tony Hawk's American Wasteland
+SLES_535.34	Tony Hawk's American Wasteland
+SLUS_214.56	Tony Hawk's Downhill Jam
+SLES_547.14	Tony Hawk's Downhill Jam
+SLES_547.15	Tony Hawk's Downhill Jam
+SLPM_654.19	Tony Hawk's Pro Skater 2003
+SLPM_651.90	Tony Hawk's Pro Skater 3
+SLUS_205.04	Tony Hawk's Pro Skater 4
+SLES_511.30	Tony Hawk's Pro Skater 4
+SLES_511.31	Tony Hawk's Pro Skater 4
+SLES_511.32	Tony Hawk's Pro Skater 4
+SLUS_214.44	Tony Hawk's Project 8
+SLES_543.89	Tony Hawk's Project 8
+SLES_543.90	Tony Hawk's Project 8
+SLUS_216.16	Tony Hawk's Proving Ground
+SLES_549.63	Tony Hawk's Proving Ground
+SLUS_209.65	Tony Hawk's Underground 2
+SLES_526.22	Tony Hawk's Underground 2
+SLES_526.21	Tony Hawk's Underground 2
+SLUS_207.31	Tony Hawk's Underground
+SLES_518.48	Tony Hawk's Underground
+SLES_518.51	Tony Hawk's Underground
+SLES_518.53	Tony Hawk's Underground
+SCUS_975.02	Tourist Trophy: The Real Riding Simulator
+SCES_533.72	Tourist Trophy: The Real Riding Simulator
+SCPS_151.05	Tourist Trophy: The Real Riding Simulator
+SLUS_206.68	Transformers
+SLKA_251.75	Transformers
+SLES_523.88	Transformers Armada: Prelude to Energon [Special Edition]
+SLES_533.09	Transformers Director's Cut
+SLUS_218.81	Transformers: Revenge of The Fallen
+SLUS_212.55	Trapt
+SLES_538.24	Trapt
+SLPS_200.62	Truck Kyousokyoku: Ai to Kanashimi no Rodeo / トラック狂走曲～愛と哀しみのロデオ～
+SLUS_211.06	True Crime: New York City
+SLES_536.16	True Crime: New York City
+SLES_536.17	True Crime: New York City
+SLES_536.18	True Crime: New York City
+SLPM_664.73	True Crime: New York City
+SLUS_203.33	Turok: Evolution
+SLES_504.79	Turok: Evolution
+SLES_511.24	Turok: Evolution
+SCUS_971.79	Twisted Metal Black
+SCUS_971.01	Twisted Metal Black
+SCUS_971.64	Twisted Metal Black [Demo]
+SCES_503.60	Twisted Metal Black
+SCES_514.80	Twisted Metal Black: Online
+SCUS_971.96	Twisted Metal Black: Online [Demo]
+SCUS_971.95	Twisted Metal Black: Online
+SCUS_978.60	Twisted Metal Black: Online [Beta]
+SCUS_976.21	Twisted Metal: Head-On [Extra Twisted Edition]
+SLUS_205.71	TY the Tasmanian Tiger
+SLES_512.20	TY the Tasmanian Tiger
+SLUS_210.57	TY the Tasmanian Tiger 2: Bush Rescue
+SLES_527.09	TY the Tasmanian Tiger 2: Bush Rescue
+SCPS_150.69	Uo: 7-tsu no Mizu to Densetsu no Nushi
+SLUS_213.90	Urban Chaos: Riot Response
+SLUS_212.09	Urban Reign
+SCES_536.88	Urban Reign
+SLUS_214.52	Valkyrie Profile 2: Silmeria
+SLES_546.44	Valkyrie Profile 2: Silmeria (ALT)
+SLES_546.45	Valkyrie Profile 2: Silmeria
+SLES_546.46	Valkyrie Profile 2: Silmeria
+SLES_546.47	Valkyrie Profile 2: Silmeria
+SLES_546.48	Valkyrie Profile 2: Silmeria
+SLPM_664.19	Valkyrie Profile 2: Silmeria
+SLUS_202.21	Vampire Night
+SCES_504.11	Vampire Night
+SCPS_550.03	Vampire Night
+SLPS_250.77	Vampire Night / ヴァンパイアナイト
+SLPS_734.12	Vampire Night / ヴァンパイアナイト [PlayStation 2 The Best]
+SCCS_400.15	Viorate no Atelier: Gramnad no Renkinjutsushi 2 (bugged text due to the missing data)
+SLPM_653.10	Viorate no Atelier: The Alchemist of Gramnad [Limited Edition]
+SLPM_653.11	Viorate no Atelier: The Alchemist of Gramnad
+SLPM_650.86	Visual Mix: Ayumi Hamasaki Dome Tour 2001 [Disc 1of2]
+SLPM_650.87	Visual Mix: Ayumi Hamasaki Dome Tour 2001 [Disc 2of2]
+SLPS_250.71	Visual Mix: Ayumi Hamasaki Dome Tour 2001 [Disc 1of2]
+SLPS_250.72	Visual Mix: Ayumi Hamasaki Dome Tour 2001 [Disc 2of2]
+SLUS_204.18	Wakeboarding Unleashed (Partial fix)
+SLUS_206.47	Wallace & Gromit in Project Zoo
+SLES_513.72	Wallace & Gromit in Project Zoo
+SLES_519.89	Wallace & Gromit in Project Zoo
+SLES_520.26	Wallace & Gromit in Project Zoo
+SLUS_204.07	Way of the Samurai
+SLES_509.21	Way of the Samurai
+SLUS_208.93	Way of the Samurai 2
+SLES_522.75	Way of the Samurai 2
+SLUS_206.84	Whiplash
+SLES_519.58	Whiplash
+SLES_511.26	Whirl Tour
+SLUS_204.89	Whirl Tour
+SCPS_151.18	Wild Arms: The Fifth Vanguard
+SLUS_216.15	Wild Arms V
+SLES_549.72	Wild Arms V
+SLUS_210.84	Winnie the Pooh's Rumbly Tumbly Adventure
+SLUS_204.62	Wipeout Fusion
+SCES_500.05	Wipeout Fusion
+SLPM_654.84	WISP: Word Image Sound Play
+SLUS_202.59	Wizadry: Tale of the Forsaken
+SLES_511.18	Wizardry: Tales of the Forsaken Land
+SLUS_203.41	Woody Woodpecker: Escape from Buzz Buzzard Park
+SLPM_645.19	Woody Woodpecker: Escape from Buzz Buzzard Park
+SLES_506.13	Woody Woodpecker
+SLUS_210.28	World Championship Poker
+SLES_531.30	World Championship Poker
+SLPS_201.95	World Fantasista
+SLUS_202.83	World of Outlaws: Sprint Cars 2002
+SLES_515.09	World of Outlaws: Sprint Cars
+SCCS_400.14	World Soccer Winning Eleven 7: International
+SCCS_400.22	World Soccer Winning Eleven 8: Asia Championship
+SLPM_663.74	World Soccer Winning Eleven 10 / ワールドサッカー ウイニングイレブン10
+SLPM_552.09	World Soccer Winning Eleven 10 / ワールドサッカー ウイニングイレブン10
+SLPM_552.94	World Soccer Winning Eleven 2012 / ワールドサッカー ウイニングイレブン 2012
+SLKA_254.80	World Soccer Winning Eleven 2012 / 월드 사커 위닝 일레븐 2012
+SLPM_552.58	World Soccer Winning Eleven 2010: Aoki Samurai no Chousen
+SLKA_254.77	World Soccer Winning Eleven 2011
+SLPM_552.76	World Soccer Winning Eleven 2011 / ワールドサッカー　ウイニングイレブン　２０１１
+SLAJ_251.15	World Soccer Winning Eleven 2011
+SLUS_208.94	Worms 3D
+SLES_518.43	Worms 3D
+SLUS_204.19	WRC: World Rally Championship
+SLPS_250.99	WRC: World Rally Championship
+SCES_532.47	WRC: World Rally Championship: Rally Evolved
+SCES_536.80	WRC: World Rally Championship: Rally Evolved / WRC avec Sébastien Loeb Édition 2005
+SCES_509.34	WRC: World Rally Championship II Extreme
+SCES_509.35	WRC: World Rally Championship II Extreme
+SLPM_652.84	WRC: World Rally Championship II Extreme
+SLPM_655.73	WRC: World Rallt Championship II Extreme [Spike The Best]
+SCES_516.84	WRC: World Rally Championship 3
+SLPM_655.83	WRC: World Rally Championship 3
+SCES_523.89	WRC: World Rally Championship 4 / WRC 4: The Official Game of the FIA World Rally Championship
+SLPM_659.75	WRC: World Rally Championship 4 / WRC 4: The Official Game of the FIA World Rally Championship
+SLUS_214.27	WWE SmackDown! vs RAW 2007
+SLES_544.88	WWE SmackDown! vs RAW 2007
+SLES_544.89	WWE SmackDown! vs RAW 2007
+SLPM_666.27	WWE SmackDown! vs RAW 2007
+SLUS_203.16	WWF SmackDown!: Just Bring It
+SLES_504.77	WWF Smackdown!: Just Bring It
+SLPS_250.87	WWF SmackDown!: Just Bring It
+SLUS_204.83	WWE SmackDown!: Shut Your Mouth
+SLUS_206.56	X-Men Legends
+SLES_526.24	X-Men Legends
+SLES_526.25	X-Men Legends
+SLUS_211.38	X-Men Legends II: Rise of Apocalypse
+SLES_533.74	X-Men Legends II: Rise of Apocalypse
+SLES_533.77	X-Men Legends II: Rise of Apocalypse
+SLUS_200.94	X-Squad
+SLES_500.31	X-Squad
+SLPS_200.25	X-treme Racing SSX / エクストリーム・レーシングSSX
+SLUS_204.69	Xenosaga Episode I: Der Wille zur Macht
+SLPS_290.02	Xenosaga Episode I: Der Wille zur Macht / ゼノサーガ・エピソードⅠ　～力への意志～
+SCCS_400.04	XIGO: Zuihou de Touzi
+SLUS_213.48	Yakuza
+SLES_541.71	Yakuza
+SLPM_662.96	Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou
+SLUS_202.78	Yanya Caballista: City Skater
+SLPM_620.51	Yanya Caballista: featuring Gawoo / ヤンヤ　カバジスタ　ｆｅａｔｕｒｉｎｇ　Ｇａｗｏｏ
+SLPM_650.50	Yu-Gi-Oh! Shin Duel Monsters II: Keishou sareshi Kioku
+SLES_515.79	Yu-Gi-Oh! The Duelists of the Roses
+SLES_524.80	Yu-Gi-Oh! The Duelists of the Roses
+SLUS_205.15	Yu-Gi-Oh! The Duelists of the Roses
+SLPM_659.26	Ys IV: Mask of the Sun: A New Theory
+SLES_509.74	Zapper
+SLUS_205.28	Zapper: One Wicked Cricket!
+SLUS_213.63	Zatch Bell! Mamodo Fury
+SLPS_253.03	Zero: Crimson Butterfly
+SLPS_251.13	Zettai Zetsumei Toshi (Disaster Report)
+SCPS_550.15	Zettai Zetsumei Toshi (Disaster Report)
+NPJD_000.80	Zettai Zetsumei Toshi (Disaster Report)
+SLPS_256.06	Zettai Zetsumei Toshi 2: Itetsuita Kioutachi
+SLKA_253.14	zzz_unknown_korean_title
+SLKA_252.60	zzz_unknown_korean_title
