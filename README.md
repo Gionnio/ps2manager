@@ -10,6 +10,8 @@
 
 <p align="center"><img src="Docs/icon.png" width="160" alt="PS2 Manager icon"></p>
 
+<p align="center"><img src="Docs/screenshot.png" width="800" alt="PS2 Manager main window"></p>
+
 ## ✨ Features
 
 - **Drag & drop install**: drop the `.iso` backups of your PS2 discs to copy them into `DVD/`, and the `.cue`/`.bin` backups of your PS1 discs to convert them to `.VCD` (folders and the Dock icon work too).
