@@ -28,7 +28,7 @@
 
 ## 🚀 Requirements
 
-- macOS 14 Sonoma or later
+- macOS 14 Sonoma or later on Apple Silicon (M1 or later)
 - A drive or share prepared for [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader)
 - For PS1 games: your own copy of `POPSTARTER.ELF` (see below)
 
@@ -45,7 +45,7 @@ They are stored in `~/Library/Application Support/PS2 Manager/` and survive app 
 
 ## 📥 Manual Installation
 
-Download the latest build, unzip it and move **PS2 Manager.app** to `/Applications`.
+Download `PS2Manager_vX.Y.Z.zip` from the [latest release](https://github.com/Gionnio/ps2manager/releases/latest), unzip it and move **PS2 Manager.app** to `/Applications`.
 
 ### ⚠️ How to open the app
 
@@ -63,8 +63,8 @@ codesign --force --deep --sign - "build/Build/Products/Release/PS2 Manager.app"
 ## 🚧 Roadmap & TODO
 
 - [x] Native SwiftUI rewrite of the original Go/Fyne app
-- [ ] VMC creation and management
 - [ ] Multi-track BIN/CUE support (CDDA)
+- [ ] VMC creation for PS2 games
 - [ ] Homebrew tap
 
 ## Privacy & Security
