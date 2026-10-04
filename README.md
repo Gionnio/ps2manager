@@ -57,7 +57,13 @@ Download `PS2Manager_vX.Y.Z.zip` from the [latest release](https://github.com/Gi
 
 ### ⚠️ How to open the app
 
-The app is not notarized. The first time, right-click it in Finder and choose **Open**, then confirm.
+The app is not signed with an Apple Developer ID, so macOS blocks it the first time:
+
+1. Open `PS2 Manager` once and close the warning.
+2. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to the PS2 Manager message.
+3. Confirm with **Open**.
+
+*Right-click → Open no longer works on macOS 15 (Sequoia) and later. You only need to do this once.*
 
 ## 🛠 Build from Source
 
