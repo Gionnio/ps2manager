@@ -43,6 +43,14 @@ They are stored in `~/Library/Application Support/PS2 Manager/` and survive app 
 
 > PS2 Manager is meant for backups of games you own. It does not include, download or link to any game, BIOS or proprietary file.
 
+## 🍺 Installation via Homebrew
+
+```bash
+brew install --cask gionnio/tap/ps2-manager
+```
+
+Update with `brew upgrade --cask ps2-manager`. To uninstall, use `brew uninstall --cask ps2-manager` (add `--zap` to also remove settings and imported third-party files).
+
 ## 📥 Manual Installation
 
 Download `PS2Manager_vX.Y.Z.zip` from the [latest release](https://github.com/Gionnio/ps2manager/releases/latest), unzip it and move **PS2 Manager.app** to `/Applications`.
@@ -65,7 +73,7 @@ codesign --force --deep --sign - "build/Build/Products/Release/PS2 Manager.app"
 - [x] Native SwiftUI rewrite of the original Go/Fyne app
 - [ ] Multi-track BIN/CUE support (CDDA)
 - [ ] VMC creation for PS2 games
-- [ ] Homebrew tap
+- [x] Homebrew tap
 
 ## Privacy & Security
 
