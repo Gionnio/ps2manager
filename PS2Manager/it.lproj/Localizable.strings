@@ -178,3 +178,8 @@
 "Rename to standard format" = "Rinomina nel formato standard";
 "Rename to “Name (Disc N)”" = "Rinomina in “Nome (Disc N)”";
 "The discs will be renamed to “Name (Disc N)”, together with their POPS and APPS folders:\n%@" = "I dischi verranno rinominati in “Nome (Disc N)”, insieme alle loro cartelle POPS e APPS:\n%@";
+"Language" = "Lingua";
+"PS2 Manager restarts to change language." = "PS2 Manager si riavvia per cambiare lingua.";
+"Relaunch PS2 Manager to change the language?" = "Riavviare PS2 Manager per cambiare lingua?";
+"Relaunch Now" = "Riavvia ora";
+"Later" = "Più tardi";
